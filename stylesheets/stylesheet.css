@@ -34,14 +34,14 @@
   background-color: #1155cc;
 }
 .level-2-button {
-  width: 3em;
+  left: -1px;
+  background-color: #3c78d8;
+}
+.level-2b-button {
   left: -1px;
   background-color: #3c78d8;
 }
 .level-3-button {
-  background-color: #6d9eeb;
-}
-.level-4-button {
   background-color: #6d9eeb;
 }
 .action-text {
