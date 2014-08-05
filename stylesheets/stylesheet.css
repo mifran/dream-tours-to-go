@@ -15,7 +15,7 @@
 .menu-bar {
   top: 0px;
   text-shadow: 0 0 0px;
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .menu-full {
   position: absolute;
@@ -41,7 +41,7 @@
 }
 .level-1-button {
   top: 0px;
-  width: 8.1em;
+  width: 10em;
   background-color: #1155cc;
 }
 .level-2-button {
@@ -62,6 +62,7 @@
 .action-text {
   top: 0px;
   float: right;
+  text-align: right;
   width: 7em;
   color: #ff5900;
 }
@@ -73,14 +74,14 @@
   top: 0px;
   float: right;
   background-color: #ff5900;
-  width: 4.25em;
+  width: 5em;
 }
 .hero {
 /*   position: absolute; */
   top: 0px;
 }
 .picture-book-page-text {
-  font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
   font-style: normal;
   position: absolute;
@@ -89,7 +90,7 @@
   left: 1%;
 }
 .picture-book-page-image-author {
-  font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
   font-style: normal;
   color: #888888;
@@ -151,7 +152,7 @@ body {
   font-size: 1em;
   line-height: 1.5; 
   background: #ffffff;
-  font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 0 8px rgba(255, 255, 255, 1); 
   color: #000000;
 }
@@ -169,7 +170,7 @@ header {
 }
 
 header h1 {
-  font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 900;
   letter-spacing: -1px;
   font-size: 48px;
