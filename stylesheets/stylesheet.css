@@ -4,7 +4,7 @@
 */ 
 .page {
   position: relative;
-  margin-bottom: -7px;
+  margin-bottom: -7px; 
 }
 .page {
   z-index: -100;
@@ -13,20 +13,26 @@
   width: 100vw;
 }
 .menu-bar {
+  top: 0px;
   text-shadow: 0 0 0px;
   font-size: 2em;
 }
 .menu-full {
+  position: absolute;
+  top: 0px;
   width: 100vw;
 }
 .menu-part {
+  top: 0px;
   display: inline-block;
 }
 .menu-part-2 {
-  width: 21em;
+  top: 0px;
+  width: 17.5em;
   float: right;
 }
 .action {
+  top: 0px;
   height: 1.5em;
   padding-left: .17em;
   padding-right: .17em;
@@ -34,40 +40,43 @@
   display: inline-block;
 }
 .level-1-button {
+  top: 0px;
   width: 8.1em;
   background-color: #1155cc;
 }
 .level-2-button {
+  top: 0px;
   left: -1px;
   background-color: #3c78d8;
 }
 .level-2b-button {
+  top: 0px;
   width: 1.8em;
   float: right;
   background-color: #3c78d8;
 }
 .level-3-button {
+  top: 0px;
   background-color: #6d9eeb;
 }
 .action-text {
+  top: 0px;
   float: right;
   width: 7em;
   color: #ff5900;
 }
 .promo-box {
-  float: right;
-  width: 9em;
-  max-height: 2.45em;
+  top: 0px;
   color: #ff5900;
-  font-size: .4em;
 }
 .action-button {
+  top: 0px;
   float: right;
   background-color: #ff5900;
   width: 4.25em;
 }
 .hero {
-  position: absolute;
+/*   position: absolute; */
   top: 0px;
 }
 .picture-book-page-text {
@@ -177,7 +186,7 @@ header h2 {
 }
 
 #container {
-  min-height: 595px;
+/*   min-height: 595px; */
 }
 
 .inner {
