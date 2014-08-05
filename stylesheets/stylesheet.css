@@ -6,12 +6,18 @@
   position: relative;
   margin-bottom: -7px;
 }
+.page {
+  z-index: -100;
+}
 .picture-book-page-image img {
   width: 100vw;
 }
 .menu-bar {
   text-shadow: 0 0 0px;
   font-size: 2em;
+}
+.menu-full {
+  width: 100vw;
 }
 .menu-part {
   display: inline-block;
@@ -25,11 +31,6 @@
   padding-left: .17em;
   padding-right: .17em;
   color: #ffffff;
-  border-right: 1px solid;
-  border-left: 1px solid;
-  border-bottom: 1px solid;
-  border-left: 0px;
-  border-color: #ffffff;
   display: inline-block;
 }
 .level-1-button {
@@ -41,25 +42,33 @@
   background-color: #3c78d8;
 }
 .level-2b-button {
-  left: -1px;
+  width: 1.8em;
+  float: right;
   background-color: #3c78d8;
 }
 .level-3-button {
   background-color: #6d9eeb;
 }
 .action-text {
+  float: right;
   width: 7em;
   color: #ff5900;
 }
 .promo-box {
+  float: right;
   width: 9em;
   max-height: 2.45em;
   color: #ff5900;
   font-size: .4em;
 }
 .action-button {
+  float: right;
   background-color: #ff5900;
   width: 4.25em;
+}
+.hero {
+  position: absolute;
+  top: 0px;
 }
 .picture-book-page-text {
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
@@ -74,10 +83,14 @@
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
   font-style: normal;
+  color: #888888;
   position: absolute;
   font-size: .7em;
   bottom: 7px;
   text-shadow: 0 0 1px rgba(255, 255, 255, 0.8); 
+}
+.picture-book-page-image-author a {
+  color: #888888;
 }
 
 html, body, div, span, applet, object, iframe,
