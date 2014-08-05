@@ -17,6 +17,10 @@
 .menu-bar a {
   color: #ffffff;
 }
+.child-menu {
+  position: absolute;
+  left: -999em;
+}
 .menu-full {
   z-index: 1000;
   position: fixed;
@@ -45,9 +49,11 @@
   width: 10em;
   background-color: #1155cc;
 }
-.level-2-button {
+.level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
+}
+.level-2-button {
   background-color: #3c78d8;
 }
 .level-2b-button {
