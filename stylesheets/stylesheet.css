@@ -11,6 +11,7 @@
 }
 .menu-bar {
   text-shadow: 0 0 0px;
+  font-size: 2em;
 }
 .menu-part {
   display: inline-block;
