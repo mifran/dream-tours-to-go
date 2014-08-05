@@ -9,15 +9,43 @@
 .picture-book-page-image img {
   width: 100vw;
 }
-.button {
+.action {
+  width: 3em;
+  height: 1.5em;
   padding-left: 2px;
   padding-right: 2px;
-}
-.level-1-button {
-  background-color: #1155cc;
   color: #ffffff;
   border: 1px solid;
+  border-left: 0px;
   border-color: #ffffff;
+  display: inline-block;
+}
+.level-1-button {
+  width: 8em;
+  background-color: #1155cc;
+}
+.level-2-button {
+  left: -1px;
+  background-color: #3c78d8;
+}
+.level-3-button {
+  background-color: #6d9eeb;
+}
+.level-4-button {
+  background-color: #6d9eeb;
+}
+.action-text {
+  width: 7em;
+  color: #ff5900;
+}
+.promo-box {
+  width: 8em;
+  color: #ff5900;
+  font-size: .4em;
+}
+.action-button {
+  background-color: #ff5900;
+  width: 5em;
 }
 .picture-book-page-text {
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
@@ -93,10 +121,10 @@ body {
 }
 
 a {
-  color: #d5000d;
+  color: #ff5900;
 } 
 a:hover {
-  color: #c5000c;
+  color: #ffaa00;
 }
 
 header {
