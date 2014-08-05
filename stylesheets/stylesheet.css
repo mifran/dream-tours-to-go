@@ -9,8 +9,17 @@
 .picture-book-page-image img {
   width: 100vw;
 }
+.menu-bar {
+  text-shadow: 0 0 0px;
+}
+.menu-part {
+  display: inline-block;
+}
+.menu-part-2 {
+  width: 21em;
+  float: right;
+}
 .action {
-  width: 3em;
   height: 1.5em;
   padding-left: 2px;
   padding-right: 2px;
@@ -25,6 +34,7 @@
   background-color: #1155cc;
 }
 .level-2-button {
+  width: 3em;
   left: -1px;
   background-color: #3c78d8;
 }
@@ -39,13 +49,14 @@
   color: #ff5900;
 }
 .promo-box {
-  width: 8em;
+  width: 9em;
+  max-height: 2.45em;
   color: #ff5900;
   font-size: .4em;
 }
 .action-button {
   background-color: #ff5900;
-  width: 5em;
+  width: 4.5em;
 }
 .picture-book-page-text {
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
