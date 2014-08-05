@@ -9,6 +9,16 @@
 .picture-book-page-image img {
   width: 100vw;
 }
+.button {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.level-1-button {
+  background-color: #1155cc;
+  color: #ffffff;
+  border: 1px solid;
+  border-color: #ffffff;
+}
 .picture-book-page-text {
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
@@ -79,7 +89,7 @@ body {
   background: #ffffff;
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 0 8px rgba(255, 255, 255, 1); 
-  color: #000000;;
+  color: #000000;
 }
 
 a {

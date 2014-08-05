@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dream Tours to Go - Group Escorted Cruises
+title: Group Escorted Cruises
 ---
 <div id="p1" class="page">
 <div class="picture-book-page-image">
