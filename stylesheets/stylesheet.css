@@ -62,6 +62,7 @@
 .action-text {
   top: 0px;
   float: right;
+  text-align: right;
   width: 7em;
   color: #ff5900;
 }
