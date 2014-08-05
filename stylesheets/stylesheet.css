@@ -25,7 +25,9 @@
   padding-left: .17em;
   padding-right: .17em;
   color: #ffffff;
-  border: 1px solid;
+  border-right: 1px solid;
+  border-left: 1px solid;
+  border-bottom: 1px solid;
   border-left: 0px;
   border-color: #ffffff;
   display: inline-block;
