@@ -21,6 +21,7 @@
   display: none;
   position: relative;
   z-index: 1200;
+  text-shadow: 0 0 8px rgba(17, 88, 209, 1.0); 
 }
 .menu-full {
   z-index: 1000;
@@ -49,6 +50,9 @@
   top: 0px;
   background-color: #1155cc;
 }
+.sky {
+  text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
+}
 .level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
@@ -74,10 +78,16 @@
   float: right;
   text-align: right;
   color: #ff5900;
+  text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
+}
+.promo-box a {
+  text-decoration: underline;
+  color: #ff5900;
 }
 .promo-box {
   top: 0px;
   color: #ff5900;
+  text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
 }
 .action-button {
   top: 0px;
@@ -460,10 +470,6 @@ footer a:hover {
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
-  header {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
   #downloads {
     margin-bottom: 25px;
   }

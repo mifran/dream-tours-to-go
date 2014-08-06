@@ -1,12 +1,6 @@
 ---
 layout: default
 title: Group Escorted Cruises
-hero-image: images/welcome-to-russia-by-jaafar-alnasser-on-flickr-cc-by-2.0.jpg
-hero-image-alt: Welcome to Russia! by Jaafar Alnasser on Flickr, cc-by-2.0
-hero-image-title: Welcome to Russia!
-hero-image-attribution: By Jaafar Alnasser, CC-BY-2.0 (//creativecommons.org/licenses/by/2.0/), via Flickr
-hero-image-attribution-href: //www.flickr.com/photos/71011448@N08/14256154431
-hero-image-author: Jaafar Alnasser
 ---
 <div id="p2" class="page">
 <div class="picture-book-page-image">
@@ -16,7 +10,7 @@ hero-image-author: Jaafar Alnasser
 
 </div>
 <div class="picture-book-page-image-author">
-<a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/71011448@N08/14256154431">Welcome to Russia!</a> by Jaafar Alnasser &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
+Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/71011448@N08/14256154431">Welcome to Russia!</a> by Jaafar Alnasser &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
 </div>
 </div>
 
@@ -28,7 +22,7 @@ hero-image-author: Jaafar Alnasser
 
 </div>
 <div class="picture-book-page-image-author">
-by <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/71011448@N08/14256154431">Welcome to Russia!</a> by Jaafar Alnasser [<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>]
+Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/71011448@N08/14256154431">Welcome to Russia!</a> by Jaafar Alnasser &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
 </div>
 </div>
 
