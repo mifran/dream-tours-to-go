@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Group Escorted Cruises
-tours-button-tail: v
+title: Russian River Boat Escorted Cruise Tour
+tours-button-tail: » Russia&nbsp;&nbsp;v
 ---
 <div id="p2" class="page">
 <div class="picture-book-page-image">
@@ -9,7 +9,7 @@ tours-button-tail: v
 </div>
 <div class="picture-book-page-text">
 <header>
-<h2>Explore the Kremlin and fortified cathedrals with your friends.</h2>
+<h2>Explore the Kremlin<br/>and fortified cathedrals<br/>with your friends.</h2>
 On a
 <h2>Russian River Boat.</h2>
 </header>
