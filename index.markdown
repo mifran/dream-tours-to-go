@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Group Escorted Cruises
-tours-button-tail: v
+tours-button: Tours&nbsp;&nbsp;v
 ---
 <div id="p2" class="page">
 <div class="picture-book-page-image">

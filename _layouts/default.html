@@ -14,7 +14,7 @@
       document.querySelector("meta[name=viewport]").setAttribute('content', 'width=670');
       }
     </script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
@@ -33,9 +33,16 @@
 
 <div class="menu-full"><div class="menu-part menu-part-1"><div class="level-1-button action">
 <a href="/">Dream Tours to Go</a> »
-        </div><div class="level-2-button action"><div class="level-2-button action"><a href="/">Tours&nbsp;</a>{{ page.tours-button-tail }}<div class="child-menu"><div class="button"><a href="/alaska">Alaska</a></div>
-<div class="button"><a href="/russia-river-boat-group-escorted-tour.html">Russia</a></div>
-<div class="button"><a href="/rhine">Rhine</a></div></div>
+        </div><div class="level-2-button action"><div class="level-2-button action click-nav">
+  <ul class="no-js">
+    <li>
+      <div class="level-2-button action"><a href="#" class="clicker">{{ page.tours-button }}</a></div>
+      <ul>
+        <li><a href="/russia-river-boat-group-escorted-tour.html">Russia</a></li>
+        <li><a href="/rhine.html">Rhine</a></li>
+      </ul>
+    </li>
+  </ul>
 </div></div>
 <div class="promo-box action">
 <a href="/russia">Call now for deals</a> that expire soon.
@@ -65,5 +72,22 @@ Tips&nbsp;&nbsp;v
             pageTracker._trackPageview();
             } catch(err) {}
           </script>
+<script>
+$(function () {
+  $('.click-nav > ul').toggleClass('no-js js');
+  $('.click-nav .js ul').hide();
+  $('.click-nav .js').click(function(e) {
+    $('.click-nav .js ul').slideToggle(200);
+    $('.clicker').toggleClass('active');
+    e.stopPropagation();
+  });
+  $(document).click(function() {
+    if ($('.click-nav .js ul').is(':visible')) {
+      $('.click-nav .js ul', this).slideUp();
+      $('.clicker').removeClass('active');
+    }
+  });
+});
+</script>
   </body>
 </html>

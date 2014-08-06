@@ -53,6 +53,17 @@
 .sky {
   text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
 }
+.click-nav ul {position:relative;}
+.click-nav ul li {position:relative;list-style:none;cursor:pointer;}
+.click-nav ul li ul {position:absolute;left:0;right:0;}
+.click-nav ul .clicker {position:relative;}
+.click-nav img {position:absolute;top:9px;left:12px;}
+.click-nav ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
+-moz-transition:background-color 0.2s ease-in-out;display:block;}
+
+/* Fallbacks */
+.click-nav .no-js ul {display:none;}
+.click-nav .no-js:hover ul {display:block;}
 .level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
@@ -94,9 +105,7 @@
   float: right;
   background-color: #ff5900;
 }
-.hero {
-  top: 0px;
-}
+
 .picture-book-page-text {
   font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
@@ -421,7 +430,6 @@ blockquote {
 
 ul li {
   list-style: disc inside;
-  padding-left: 20px;
 }
 
 ol li {
@@ -498,3 +506,4 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {}
+
