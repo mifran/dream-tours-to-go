@@ -18,8 +18,7 @@
   color: #ffffff;
 }
 .child-menu {
-  position: absolute;
-  left: -999em;
+  display: none;
 }
 .menu-full {
   z-index: 1000;
@@ -38,6 +37,7 @@
 }
 .action {
   top: 0px;
+  vertical-align: top;
   height: 1.5em;
   padding-left: .17em;
   padding-right: .17em;
@@ -52,6 +52,9 @@
 .level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
+}
+.level-2-button:hover .child-menu {
+  display:block;
 }
 .level-2-button {
   background-color: #3c78d8;
