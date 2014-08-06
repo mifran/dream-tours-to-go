@@ -12,13 +12,15 @@
 .menu-bar {
   top: 0px;
   text-shadow: 0 0 0px;
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 .menu-bar a {
   color: #ffffff;
 }
 .child-menu {
   display: none;
+  position: relative;
+  z-index: 1200;
 }
 .menu-full {
   z-index: 1000;
@@ -32,7 +34,6 @@
 }
 .menu-part-2 {
   top: 0px;
-  width: 17.5em;
   float: right;
 }
 .action {
@@ -46,12 +47,12 @@
 }
 .level-1-button {
   top: 0px;
-  width: 10em;
   background-color: #1155cc;
 }
 .level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
+  z-index: 1200;
 }
 .level-2-button:hover .child-menu {
   display:block;
@@ -61,7 +62,6 @@
 }
 .level-2b-button {
   top: 0px;
-  width: 1.8em;
   float: right;
   background-color: #3c78d8;
 }
@@ -73,7 +73,6 @@
   top: 0px;
   float: right;
   text-align: right;
-  width: 7em;
   color: #ff5900;
 }
 .promo-box {
@@ -84,7 +83,6 @@
   top: 0px;
   float: right;
   background-color: #ff5900;
-  width: 5em;
 }
 .hero {
   top: 0px;
