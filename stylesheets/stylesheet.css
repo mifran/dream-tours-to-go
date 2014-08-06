@@ -69,7 +69,7 @@
   left: -1px;
   z-index: 1200;
 }
-.level-2-button {
+.level-2-button, .click-nav ul li, .click-nav ul li a, .click-nav ul {
   background-color: #3c78d8;
 }
 .level-2b-button {
