@@ -53,23 +53,23 @@
 .sky {
   text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
 }
-.click-nav ul {position:relative;}
-.click-nav ul li {position:relative;list-style:none;cursor:pointer;}
-.click-nav ul li ul {position:absolute;left:0;right:0;}
-.click-nav ul .clicker {position:relative;}
-.click-nav img {position:absolute;top:9px;left:12px;}
-.click-nav ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
+.click-nav ul, .click-nav2 ul {position:relative;}
+.click-nav ul li, .click-nav2 ul li {position:relative;list-style:none;cursor:pointer;}
+.click-nav ul li ul, .click-nav2 ul li ul  {position:absolute;left:0;right:0;}
+.click-nav ul .clicker, .click-nav2 ul .clicker {position:relative;}
+.click-nav img, .click-nav2 img  {position:absolute;top:9px;left:12px;}
+.click-nav ul li a, .click-nav2 ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
 -moz-transition:background-color 0.2s ease-in-out;display:block;}
 
 /* Fallbacks */
-.click-nav .no-js ul {display:none;}
-.click-nav .no-js:hover ul {display:block;}
+.click-nav .no-js ul, .click-nav2 .no-js ul  {display:none;}
+.click-nav .no-js:hover ul, .click-nav2 .no-js:hover ul  {display:block;}
 .level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
   z-index: 1200;
 }
-.level-2-button, .click-nav ul li, .click-nav ul li a, .click-nav ul {
+.level-2-button, .click-nav ul li, .click-nav ul li a, .click-nav ul, .click-nav2 ul li, .click-nav2 ul li a, .click-nav2 ul {
   background-color: #3c78d8;
 }
 .level-2b-button {

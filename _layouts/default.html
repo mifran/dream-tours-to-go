@@ -50,7 +50,7 @@
 Book Now
         </div><div class="action-text action">
 704-543-1972
-        </div><div class="level-2-button action click-nav" id="tips">
+        </div><div class="level-2-button action click-nav2" id="tips">
   <ul class="no-js">
     <li>
       <div class="level-2-button action"><a href="#" class="clicker">Tips&nbsp;&nbsp;v</a></div>
@@ -92,6 +92,20 @@ $(function () {
   $(document).click(function() {
     if ($('.click-nav .js ul').is(':visible')) {
       $('.click-nav .js ul', this).slideUp();
+      $('.clicker').removeClass('active');
+    }
+  });
+
+  $('.click-nav2 > ul').toggleClass('no-js js');
+  $('.click-nav2 .js ul').hide();
+  $('.click-nav2 .js').click(function(e) {
+    $('.click-nav2 .js ul').slideToggle(200);
+    $('.clicker').toggleClass('active');
+    e.stopPropagation();
+  });
+  $(document).click(function() {
+    if ($('.click-nav2 .js ul').is(':visible')) {
+      $('.click-nav2 .js ul', this).slideUp();
       $('.clicker').removeClass('active');
     }
   });
