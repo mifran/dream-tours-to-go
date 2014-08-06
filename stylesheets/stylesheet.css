@@ -69,9 +69,6 @@
   left: -1px;
   z-index: 1200;
 }
-.level-2-button:hover .child-menu {
-  display:block;
-}
 .level-2-button {
   background-color: #3c78d8;
 }
