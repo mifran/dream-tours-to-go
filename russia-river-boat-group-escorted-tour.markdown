@@ -9,7 +9,7 @@ tours-button: Russia&nbsp;&nbsp;v
 </div>
 <div class="picture-book-page-text">
 <header>
-<h2>Explore the Kremlin<br/>and fortified cathedrals<br/>with your friends.</h2>
+<h2>Explore the Kremlin and fortified<br/>cathedrals with your friends.</h2>
 On a
 <h2>Russian River Boat.</h2>
 </header>

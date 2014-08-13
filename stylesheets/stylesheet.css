@@ -74,7 +74,6 @@
 }
 .level-2b-button {
   top: 0px;
-  float: right;
   background-color: #3c78d8;
 }
 .level-3-button {
@@ -83,7 +82,6 @@
 }
 .action-text {
   top: 0px;
-  float: right;
   text-align: right;
   color: #ff5900;
   text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
@@ -99,7 +97,6 @@
 }
 .action-button {
   top: 0px;
-  float: right;
   background-color: #ff5900;
 }
 
