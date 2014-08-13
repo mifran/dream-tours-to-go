@@ -53,23 +53,23 @@
 .sky {
   text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
 }
-.click-nav ul, .click-nav2 ul {position:relative;}
-.click-nav ul li, .click-nav2 ul li {position:relative;list-style:none;cursor:pointer;}
-.click-nav ul li ul, .click-nav2 ul li ul  {position:absolute;left:0;right:0;}
-.click-nav ul .clicker, .click-nav2 ul .clicker {position:relative;}
-.click-nav img, .click-nav2 img  {position:absolute;top:9px;left:12px;}
-.click-nav ul li a, .click-nav2 ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
+.menu ul, .menu2 ul {position:relative;}
+.menu ul li, .menu2 ul li {position:relative;list-style:none;cursor:pointer;}
+.menu ul li ul, .menu2 ul li ul  {position:absolute;left:0;right:0;}
+.menu ul .clicker, .menu2 ul .clicker {position:relative;}
+.menu img, .menu2 img  {position:absolute;top:9px;left:12px;}
+.menu ul li a, .menu2 ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
 -moz-transition:background-color 0.2s ease-in-out;display:block;}
 
 /* Fallbacks */
-.click-nav .no-js ul, .click-nav2 .no-js ul  {display:none;}
-.click-nav .no-js:hover ul, .click-nav2 .no-js:hover ul  {display:block;}
+.menu .no-js ul, .menu2 .no-js ul  {display:none;}
+.menu .no-js:hover ul, .menu2 .no-js:hover ul  {display:block;}
 .level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
   z-index: 1200;
 }
-.level-2-button, .click-nav ul li, .click-nav ul li a, .click-nav ul, .click-nav2 ul li, .click-nav2 ul li a, .click-nav2 ul {
+.level-2-button, .menu ul li, .menu ul li a, .menu ul, .menu2 ul li, .menu2 ul li a, .menu2 ul {
   background-color: #3c78d8;
 }
 .level-2b-button {
@@ -109,7 +109,7 @@
   font-style: normal;
   position: absolute;
   font-size: 1.3em;
-  top: 7em;
+  top: 2em;
   left: 1%;
 }
 .picture-book-page-image-author {
@@ -198,11 +198,11 @@ header h1 {
 
 header h2 {
   letter-spacing: -1px;
-  font-size: 6vw;
+  font-size: 3.5vw;
   color: #fff;
   font-weight: normal;
   line-height: 1.3;
-  text-shadow: 0 0 1px rgba(17, 88, 209, 0.8); 
+  text-shadow: 0 0 10px rgba(17, 88, 209, 0.8); 
 }
 
 #container {
@@ -452,7 +452,7 @@ header {
   color: #fff;
 }
 .inner header {
-  font-size: 3vw;
+  font-size: 2vw;
 }
 
 footer a {
