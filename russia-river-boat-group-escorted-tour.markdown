@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Russian River Boat Escorted Cruise Tour
-tours-button: Russia&nbsp;&nbsp;v
+this-button: Russia&nbsp;&nbsp;v
 ---
 <div id="p2" class="page">
 <div class="picture-book-page-image">
