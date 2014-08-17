@@ -95,22 +95,21 @@
   font-weight: normal;
   font-style: normal;
   position: absolute;
-  font-size: 1.3em;
-  top: 2em;
+  top: 3em;
   left: 1%;
 }
 .picture-book-page-image-author {
   font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
   font-style: normal;
-  color: #888888;
+  color: #aaa;
   position: absolute;
   font-size: .7em;
   bottom: 7px;
-  text-shadow: 0 0 1px rgba(255, 255, 255, 0.8); 
+  text-shadow: 0 0 1px rgba(17, 88, 209, 1.0); 
 }
 .picture-book-page-image-author a {
-  color: #888888;
+  color: #aaa;
 }
 
 html, body, div, span, applet, object, iframe,
@@ -184,11 +183,11 @@ header h1 {
 }
 
 header h2 {
+  line-height: 1.2;
   letter-spacing: -1px;
-  font-size: 3.5vw;
+  font-size: 200%;
   color: #fff;
   font-weight: normal;
-  line-height: 1.3;
   text-shadow: 0 0 10px rgba(17, 88, 209, 0.8); 
 }
 
@@ -439,7 +438,7 @@ header {
   color: #fff;
 }
 .inner header {
-  font-size: 2vw;
+/*  font-size: 2vw; */
 }
 
 footer a {
