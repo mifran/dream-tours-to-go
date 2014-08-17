@@ -54,22 +54,6 @@
 .sky {
   text-shadow: 0 0 8px rgba(17, 88, 209, 0.8); 
 }
-.menu ul, .menu2 ul {position:relative;}
-.menu ul li, .menu2 ul li {position:relative;list-style:none;cursor:pointer;}
-.menu ul li ul, .menu2 ul li ul  {
-  position:absolute;
-  left:0;
-  right:0;
-  border: solid 1px #fff;
-}
-.menu ul .drop-down, .menu2 ul .drop-down {position:relative;}
-.menu img, .menu2 img  {position:absolute;top:9px;left:12px;}
-.menu ul li a, .menu2 ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
--moz-transition:background-color 0.2s ease-in-out;display:block;}
-
-/* Fallbacks */
-.menu .no-js ul, .menu2 .no-js ul  {display:none;}
-.menu .no-js:hover ul, .menu2 .no-js:hover ul  {display:block;}
 .level-2-button, .level-2-container {
   top: 0px;
   left: -1px;
