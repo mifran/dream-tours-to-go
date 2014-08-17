@@ -2,6 +2,9 @@
   (c) Dream Tours to Go Inc, and the other creators, License cc-by-sa 4.0 International
    Modified from original by Eric Meyer at http://meyerweb.com/eric/tools/css/reset/ 
 */ 
+.main-content {
+  display: inline-block;
+}
 .page {
   position: relative;
   margin-bottom: -7px; 
@@ -89,7 +92,10 @@
   top: 0px;
   background-color: #ff5900;
 }
-
+.menu-spacer {
+  display: inline-block;
+  height: 4em;
+}
 .picture-book-page-text {
   font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
@@ -172,7 +178,9 @@ a {
 a:hover {
   color: #ffaa00;
 }
-
+h1, h2, p {
+	margin-left: 30px;
+}
 header h1 {
   font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 900;
@@ -394,6 +402,7 @@ h6 {
 p {
   font-weight: 300;
   margin-bottom: 20px;
+  max-width: 40em;
 }
  
 a {
@@ -494,8 +503,15 @@ footer a:hover {
   .picture-book-page-text {
     top: 4.5em;
   }
+  .menu-spacer {
+    height: 5.5em;
+    display: inline-block;
+  }
   header h2 {
     font-size: 150%;
+  }
+  h1, h2, p {
+    margin-left: 15px;
   }
 }
 
@@ -506,6 +522,9 @@ footer a:hover {
   }
   header h2 {
     font-size: 100%;
+  }
+  h1, h2, p {
+    margin-left: 4px;
   }
 }
 
