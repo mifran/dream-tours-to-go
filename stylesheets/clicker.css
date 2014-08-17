@@ -14,9 +14,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 .menu ul li, .menu2 ul li {position:relative;list-style:none;cursor:pointer;}
 .menu ul li ul, .menu2 ul li ul  {
   position:absolute;
-  left:0;
-  right:0;
   border: solid 1px #fff;
+  left: -5px;
+  right: 0;
 }
 .menu2 ul li ul {
   left: -20em;
