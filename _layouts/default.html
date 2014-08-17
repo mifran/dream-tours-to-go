@@ -52,7 +52,11 @@ Book Now
     <li>
       <a href="#" class="drop-down">Tips&nbsp;&nbsp;v</a>
       <ul>
-        <li><a href="terms-conditions.html">Terms and Conditions</a></li>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
       </ul>
     </li>
   </ul>
