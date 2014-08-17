@@ -27,7 +27,7 @@ Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/
 <header>
 <h2>
 13 days<br/>
-August 5, 2014 - August 17, 2014<br/>
+August 5, 2015 - August 17, 2015<br/>
 From $4632 plus airfare.
 </h2>
 </header>
