@@ -45,6 +45,7 @@
   padding-right: .17em;
   color: #ffffff;
   display: inline-block;
+  border: solid 1px #fff;
 }
 .level-1-button {
   top: 0px;
@@ -55,8 +56,13 @@
 }
 .menu ul, .menu2 ul {position:relative;}
 .menu ul li, .menu2 ul li {position:relative;list-style:none;cursor:pointer;}
-.menu ul li ul, .menu2 ul li ul  {position:absolute;left:0;right:0;}
-.menu ul .clicker, .menu2 ul .clicker {position:relative;}
+.menu ul li ul, .menu2 ul li ul  {
+  position:absolute;
+  left:0;
+  right:0;
+  border: solid 1px #fff;
+}
+.menu ul .drop-down, .menu2 ul .drop-down {position:relative;}
 .menu img, .menu2 img  {position:absolute;top:9px;left:12px;}
 .menu ul li a, .menu2 ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
 -moz-transition:background-color 0.2s ease-in-out;display:block;}

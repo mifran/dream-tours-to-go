@@ -33,23 +33,22 @@
 
 <div class="menu-full"><div class="menu-part menu-part-1"><div class="level-1-button action">
 <a href="index.html">Dream Tours to Go</a> »
-        </div><div class="level-2-button action"><div class="level-2-button action menu" id="tours">
+        </div><div class="level-2-button action menu" id="tours"> 
   <ul class="no-js">
     <li>
-      <div class="level-2-button action"><a href="#" class="clicker">{{ page.tours-button }}</a></div>
+      <a href="#" class="drop-down">{{ page.tours-button }}</a>
       <ul>
         <li><a href="russia-river-boat-group-escorted-tour.html">Russia</a></li>
         <li><a href="/rhine.html">Rhine</a></li>
       </ul>
     </li>
-  </ul>
-</div></div>
+  </ul></div>
 <div class="promo-box action">
 <a href="russia-river-boat-group-escorted-tour.html">Call now for deals</a> that expire soon.
         </div></div><div class="menu-part menu-part-2"><div class="level-2-button action menu2" id="tips">
   <ul class="no-js">
     <li>
-      <div class="level-2-button action"><a href="#" class="clicker">Tips&nbsp;&nbsp;v</a></div>
+      <a href="#" class="drop-down">Tips&nbsp;&nbsp;v</a>
       <ul>
         <li><a href="russia-river-boat-group-escorted-tour.html">Text</a></li>
         <li><a href="/rhine.html">Text2</a></li>
@@ -87,13 +86,13 @@ $(function () {
   $('.menu .js ul').hide();
   $('.menu .js').click(function(e) {
     $('.menu .js ul').slideToggle(200);
-    $('.clicker').toggleClass('active');
+    $('.drop-down').toggleClass('active');
     e.stopPropagation();
   });
   $(document).click(function() {
     if ($('.menu .js ul').is(':visible')) {
       $('.menu .js ul', this).slideUp();
-      $('.clicker').removeClass('active');
+      $('.drop-down').removeClass('active');
     }
   });
 
@@ -101,13 +100,13 @@ $(function () {
   $('.menu2 .js ul').hide();
   $('.menu2 .js').click(function(e) {
     $('.menu2 .js ul').slideToggle(200);
-    $('.clicker').toggleClass('active');
+    $('.drop-down').toggleClass('active');
     e.stopPropagation();
   });
   $(document).click(function() {
     if ($('.menu2 .js ul').is(':visible')) {
       $('.menu2 .js ul', this).slideUp();
-      $('.clicker').removeClass('active');
+      $('.drop-down').removeClass('active');
     }
   });
 });
