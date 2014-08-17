@@ -484,9 +484,6 @@ footer a:hover {
     width: 100%;
     margin: 0 auto;
   }
-  .picture-book-page-text {
-    top: 4.5em;
-  }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
@@ -494,12 +491,21 @@ footer a:hover {
   .menu-third {
     display: none;
   }
+  .picture-book-page-text {
+    top: 4.5em;
+  }
+  header h2 {
+    font-size: 150%;
+  }
 }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {
   .menu-secondary {
     display: none;
+  }
+  header h2 {
+    font-size: 100%;
   }
 }
 
