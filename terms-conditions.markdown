@@ -3,7 +3,6 @@ layout: post
 title: Terms and Conditions
 this-button: Terms&nbsp;&nbsp;v
 ---
-<div class="main-content">
 <p>The terms and conditions set forth below apply to all persons and for all tours conducted by Dream Tours To Go unless otherwise specifically stated on our website or by written agreement.  Each tour provides specific information about that tour and if certain terms and conditions differ from those here, then the terms and conditions of that specific tour takes precedence over any other. No person other than those lawfully designated has the authority to add or delete any content to this web site.  It is the participant’s responsibility to read and understand the description of the tour they select as certain criteria may be different from another tour.</p>
 <h2>RESERVATIONS</h2>
 <p>Reservations are not considered final until a deposit has been made and accepted by the company and the proper documentation required by TSA is received.</p>
@@ -54,4 +53,3 @@ this-button: Terms&nbsp;&nbsp;v
 <p>This contract shall be governed by the laws of the state of North Carolina.</p>
 <h2>PRIVACY</h2>
 <p>Dream Tours to Go is committed to protecting the privacy of our customers. We use information provided to us by our customers as part of an ongoing sales and marketing process, and to notify you of new tours and special offers. You may elect to opt out by contacting us via email, telephone, or with our Contact Us form. We also use Google Analytics and its cookies to make our website easier for you to use. We do analyze some data on an individual level to better customize our marketing to our customers' needs.</p>
-</div>

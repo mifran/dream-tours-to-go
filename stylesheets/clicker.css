@@ -18,6 +18,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   right:0;
   border: solid 1px #fff;
 }
+.menu2 ul li ul {
+  left: -20em;
+  text-align: right;
+}
 .menu ul .drop-down, .menu2 ul .drop-down {position:relative;}
 .menu img, .menu2 img  {position:absolute;top:9px;left:12px;}
 .menu ul li a, .menu2 ul li a {transition:background-color 0.2s ease-in-out;-webkit-transition:background-color 0.2s ease-in-out;
