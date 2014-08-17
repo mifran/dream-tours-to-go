@@ -434,9 +434,6 @@ footer {
 header {
   color: #fff;
 }
-header {
-  color: #fff;
-}
 .inner header {
 /*  font-size: 2vw; */
 }
@@ -460,6 +457,11 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+
+.on-white, .on-white header h2 {
+  color: #000;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.8); 
+}
 
 /* #Media Queries
 ================================================== */
