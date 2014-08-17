@@ -483,6 +483,9 @@ footer a:hover {
     width: 100%;
     margin: 0 auto;
   }
+  .picture-book-page-text {
+    top: 4.5em;
+  }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
