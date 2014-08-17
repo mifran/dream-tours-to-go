@@ -1,68 +1,113 @@
----
-layout: default
----
-
-<div id="post-header"">
-<span class="post-date">{{ page.date | date_to_string }}</span><br>
-</div>
-
-{{ content }}
-
-<h3>Posts</h3>
-<p>
-{% for post in site.posts %}
-{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a><br>
-{% endfor %}
-</p>
-
-{% include nav.ext %}
-
-<div id="comments">
-  <h2>Comments</h2>
-  <div id="header">
-    Want to leave a comment? Visit <a href="https://github.com/pazilla/pazilla.github.io/issues/{{page.commentIssueId}}"> this post's issue page on GitHub</a> (you'll need a GitHub account).
-</div>
-</div>
-
-<script type="text/javascript" src="http://datejs.googlecode.com/svn/trunk/build/date-en-US.js"></script>
-
-<script type="text/javascript">
-
-  function loadAuthor(data) {
-      var auser = data.login;
-      var aname = data.name;
-      var auserlink = data.html_url;
-      var aavatarlink = data.avatar_url;
-
-      $("#post-header").append("<div class='authorship'>" + '<img src="' + aavatarlink + '" alt="" width="32" height="32">' + " by <a class='author' href=\""+ auserlink + "\">" + aname + "</a></div>");
-  }
-
-  $.ajax("https://api.github.com/users/{{page.authorlogin}}", {
-    headers: {Accept: "application/vnd.github.full+json"},
-    dataType: "json",
-    success: function(msg){
-      loadAuthor(msg);
-   }
-  });
-
-  function loadComments(data) {
-    for (var i=0; i<data.length; i++) {
-      var cuser = data[i].user.login;
-      var cuserlink = "https://www.github.com/" + data[i].user.login;
-      var clink = "https://github.com/pazilla/pazilla.github.io/issues/{{page.commentIssueId}}#issuecomment-" + data[i].url.substring(data[i].url.lastIndexOf("/")+1);
-      var cbody = data[i].body_html;
-      var cavatarlink = data[i].user.avatar_url;
-      var cdate = Date.parse(data[i].created_at).toString("yyyy-MM-dd HH:mm:ss");
-
-      $("#comments").append("<div class='comment'><div class='commentheader'>" + '<img src="' + cavatarlink + '" alt="" width="32" height="32">' + " <a class='commentuser' href=\""+ cuserlink + "\">" + cuser + "</a>, <a class='commentdate' href=\"" + clink + "\">" + cdate + "</a></div><div class='commentbody'>" + cbody + "</div></div>");
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width" />
+    <script type="text/javascript">
+      if (window.innerWidth < 500) {
+      // Phone
+      document.querySelector("meta[name=viewport]").setAttribute('content', 'width=480');
     }
-  }
+    else if (window.innerWidth < 650) {
+      // Tablet
+      document.querySelector("meta[name=viewport]").setAttribute('content', 'width=670');
+      }
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/clicker.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/freeuniversal" rel="stylesheet" type="text/css"/>
+    <title>Dream Tours to Go - {{ page.title }}</title>
+  </head>
 
-  $.ajax("https://api.github.com/repos/pazilla/pazilla.github.io/issues/{{page.commentIssueId}}/comments?per_page=100", {
-    headers: {Accept: "application/vnd.github.full+json"},
-    dataType: "json",
-    success: function(msg){
-      loadComments(msg);
-   }
+  <body>
+    <div id="container">
+        <header>
+      <div id="nav" class="menu-bar clearfix">
+
+<div class="menu-full"><div class="menu-part menu-part-1"><div class="level-1-button action menu-secondary">
+<a href="index.html">Dream Tours to Go</a> »
+        </div><div class="level-2-button action menu" id="tours"> 
+  <ul class="no-js">
+    <li>
+      <a href="#" class="drop-down">{{ page.tours-button }}</a>
+      <ul>
+        <li><a href="russia-river-boat-group-escorted-tour.html">Russia</a></li>
+        <li><a href="/rhine.html">Rhine</a></li>
+      </ul>
+    </li>
+  </ul></div></div><div class="menu-part menu-part-2"><div class="action-text action">
+704-543-1972
+        </div><div class="action action-button menu-secondary">
+Book Now
+        </div><div class="level-2-button action menu2" id="tips">
+  <ul class="no-js">
+    <li>
+      <a href="#" class="drop-down">Tips&nbsp;&nbsp;v</a>
+      <ul>
+        <li><a href="russia-river-boat-group-escorted-tour.html">Text</a></li>
+        <li><a href="/rhine.html">Text2</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+</div></div></div>
+        </header>
+      <div class="inner">
+
+        <section id="main_content">
+{{ content }}
+        </section>
+
+      </div>
+    </div>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-52966805-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+<script>
+$(function () {
+  $('.menu > ul').toggleClass('no-js js');
+  $('.menu .js ul').hide();
+  $('.menu .js').click(function(e) {
+    $('.menu .js ul').slideToggle(200);
+    $('.drop-down').toggleClass('active');
+    e.stopPropagation();
   });
+  $(document).click(function() {
+    if ($('.menu .js ul').is(':visible')) {
+      $('.menu .js ul', this).slideUp();
+      $('.drop-down').removeClass('active');
+    }
+  });
+
+  $('.menu2 > ul').toggleClass('no-js js');
+  $('.menu2 .js ul').hide();
+  $('.menu2 .js').click(function(e) {
+    $('.menu2 .js ul').slideToggle(200);
+    $('.drop-down').toggleClass('active');
+    e.stopPropagation();
+  });
+  $(document).click(function() {
+    if ($('.menu2 .js ul').is(':visible')) {
+      $('.menu2 .js ul', this).slideUp();
+      $('.drop-down').removeClass('active');
+    }
+  });
+});
 </script>
+  </body>
+</html>
