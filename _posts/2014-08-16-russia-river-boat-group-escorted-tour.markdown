@@ -60,49 +60,50 @@ From $6131 plus airfare.
 </ul>
 </p>
 
+<div class="align-right">
 <p>
-<table border="1" bordercolor="white" cellspacing="0" style="background-color:transparent;font-size:10pt;border-collapse:collapse;border-color:rgb(255,255,255);border-width:0px">
+<table>
 <tbody>
 <tr>
-<td style="height:18px">&nbsp;<font size="3">Base Cost - Category F</font></td>
-<td style="text-align:right;height:18px"><font size="3">$ 4373</font></td>
-<td style="height:18px"><font size="3">&nbsp;</font></td>
+<td>Base Cost - Category F</td>
+<td>$ 4373</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
-<td style="height:18px"><font size="3">&nbsp;Port charges &amp; taxes</font></td>
-<td style="text-align:right;height:18px"><font size="3">264<br>
-</font></td>
-<td style="height:18px"><font size="3">&nbsp;</font></td>
+<td >&nbsp;Port charges &amp; taxes</td>
+<td >264<br>
+</td>
+<td >&nbsp;</td>
 </tr>
 <tr>
-<td style="height:18px"><font size="3">&nbsp;Cabin upgrade to Category D</font></td>
-<td style="text-align:right;height:18px"><font size="3">&nbsp;699</font></td>
-<td style="height:18px"><font size="2">&nbsp;this upgrade is optional, but recommended</font></td>
+<td >&nbsp;Cabin upgrade to Category D</td>
+<td >&nbsp;699</td>
+<td >&nbsp;this upgrade is optional, but recommended</td>
 </tr>
 <tr>
-<td style="height:14px">&nbsp;<font size="3">Air fare - ESTIMATED</font></td>
-<td style="text-align:right;height:14px">&nbsp;<font size="3">1494</font></td>
-<td style="height:14px">&nbsp;</td>
+<td >&nbsp;Air fare - ESTIMATED</td>
+<td >&nbsp;1494</td>
+<td >&nbsp;</td>
 </tr>
 <tr>
-<td style="border-width:1px">&nbsp;<br>
-<font size="3">Upgrades to cabins:</font></td>
+<td >&nbsp;<br>
+Upgrades to cabins:</td>
 <td colspan="2">
-<table border="0" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:0px">
+<table >
 <tbody>
 <tr>
-<td style="height:14px"><font size="3">&nbsp;<br>
-Category C</font></td>
-<td style="text-align:right;height:14px"><font size="3">&nbsp;<br>
-$ 1399</font></td>
+<td >&nbsp;<br>
+Category C</td>
+<td >&nbsp;<br>
+$ 1399</td>
 </tr>
 <tr>
-<td style="height:14px"><font size="3">Category D</font></td>
-<td style="text-align:right;height:14px"><font size="3">&nbsp;699</font></td>
+<td >Category D</td>
+<td >&nbsp;699</td>
 </tr>
 <tr>
-<td style="height:14px"><font size="3">Category E</font></td>
-<td style="text-align:right;height:14px"><font size="3">&nbsp;279</font></td>
+<td >Category E</td>
+<td >&nbsp;279</td>
 </tr>
 </tbody>
 </table>
@@ -111,6 +112,7 @@ $ 1399</font></td>
 </tbody>
 </table>
 </p>
+</div>
 
 <header>
 <h2>Does not include the following</h2>
