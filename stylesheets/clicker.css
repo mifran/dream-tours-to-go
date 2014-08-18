@@ -18,6 +18,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   left: -5px;
   right: 0;
 }
+.menu ul li ul {
+  width: 20em;
+}
 .menu2 ul li ul {
   left: -20em;
   text-align: right;

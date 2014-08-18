@@ -37,10 +37,19 @@
         </div><div class="level-2-button action menu" id="tours"> 
   <ul class="no-js">
     <li>
-      <a href="#" class="drop-down">{{ page.this-button }}</a>
+{% if page.type == "tip" %}
+      <a href="#" class="drop-down">Tours&nbsp;&nbsp;v</a>
+{% else %}
+      <a href="#" class="drop-down">{{ page.this-button }}&nbsp;&nbsp;v</a>
+{% endif %}
       <ul>
-        <li><a href="russia-river-boat-group-escorted-tour.html">Russia</a></li>
-        <li><a href="/rhine.html">Rhine</a></li>
+        {% for post in site.posts %}
+{% if post.type == "tour" %}
+          <li>
+            <a href="{{ post.url }}">{{ post.this-button }}</a>
+          </li>
+{% endif %}
+        {% endfor %}
       </ul>
     </li>
   </ul></div></div><div class="menu-part menu-part-2"><div class="action-text action">
@@ -50,12 +59,18 @@ Book Now
         </div><div class="level-2-button action menu2" id="tips">
   <ul class="no-js">
     <li>
+{% if page.type == "tip" %}
+      <a href="#" class="drop-down">{{ page.this-button }}&nbsp;&nbsp;v</a>
+{% else %}
       <a href="#" class="drop-down">Tips&nbsp;&nbsp;v</a>
+{% endif %}
       <ul>
         {% for post in site.posts %}
+{% if post.type == "tip" %}
           <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
+{% endif %}
         {% endfor %}
       </ul>
     </li>
@@ -65,9 +80,25 @@ Book Now
         </header>
       <div class="inner">
 
+{% if page.type == "tip" %}
+<div class="menu-spacer"></div>
+<div class="main-content">
+{% endif %}
+
         <section id="main_content">
+{% if page.type == "tip" %}
+<header>
+<h1>
+{{ page.title }}
+</h1>
+</header>
+{% endif %}
+
 {{ content }}
         </section>
+{% if page.type == "tip" %}
+</div>
+{% endif %}
 
       </div>
     </div>
