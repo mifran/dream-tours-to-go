@@ -123,9 +123,10 @@ $ 1399</td>
 <li>Trip insurance-this is strongly recommended</li>
 <li>On board gratuities</li>
 </ul>
-
+<div class="heading-spacer" id="book-now">
+<div class="heading-spacer-first-element">
 <header>
-<h2>Book Now</h2>
+<h2><div class="action-text">Book Now - from $6131 including airfare</div></h2>
 </header>
 
 <p>Reserve your spot now! This cruise is almost sold out, and the choice cabins go quickest.</p>
@@ -141,4 +142,6 @@ Charlotte NC 28226
 <p><a href="terms-conditions.html">Terms and Conditions</a> apply. The deposit is fully refundable up to 300 days prior to departure.</p>
 
 <p>Questions? Email us at <a href="mailto:contact@dreamtourstogo.com">contact@dreamtourstogo.com</a> or call 704-542-1972.</p>
+</div>
+</div>
 </div>
