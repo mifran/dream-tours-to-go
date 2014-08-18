@@ -33,7 +33,7 @@ Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/
 <h2>
 13 days<br/>
 August 5, 2015 - August 17, 2015<br/>
-From $6131 plus airfare.
+From $6131 including airfare.
 </h2>
 </header>
 </div>
@@ -115,7 +115,7 @@ $ 1399</td>
 </div>
 
 <header>
-<h2>Does not include the following</h2>
+<h2>Does not include:</h2>
 </header>
 <ul>
 <li>Cost of Passport and Visa</li>
