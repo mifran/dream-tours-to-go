@@ -129,7 +129,7 @@ $ 1399</td>
 <h2><div class="action-text">Book Now - from $6131 including airfare</div></h2>
 </header>
 
-<p>Reserve your spot now! This cruise is almost sold out, and the choice cabins go quickest.</p>
+<p>Reserve your cabin preference now! This cruise sells out quickly.</p>
 
 <p>To reserve your spot, send a $750.00 per person deposit by check to:</p>
 
@@ -141,7 +141,7 @@ Charlotte NC 28226
 
 <p><a href="terms-conditions.html">Terms and Conditions</a> apply. The deposit is fully refundable up to 300 days prior to departure.</p>
 
-<p>Questions? Email us at <a href="mailto:contact@dreamtourstogo.com">contact@dreamtourstogo.com</a> or call 704-542-1972.</p>
+<p>Questions? Email us at <a href="mailto:contact@dreamtourstogo.com">contact@dreamtourstogo.com</a> or call 704-543-1972.</p>
 </div>
 </div>
 </div>
