@@ -2,7 +2,7 @@
 layout: default
 type: tour
 title: Russian River Boat Escorted Cruise Tour
-this-button: Russia River Boat
+this-button: Russia
 hero-image: images/saint-basils-cathedral-red-square-in-moscow-russia-by-steffan-jensen-cc-by-sa-20.jpg
 hero-alt: Saint Basil's Cathedral. Red Square in Moscow, Russia by Steffan Jensen on Flickr, cc-by-sa-2.0
 hero-text: <h2>Explore the Kremlin and fortified<br/>cathedrals with your friends.</h2>On a <h2>Russian River Boat.</h2>
@@ -44,13 +44,12 @@ From $6131 including airfare.
 
 <div class="on-white">
 <header>
-<h2>Includes airfare from Charlotte, land tours, daily sightseeing, and more</h2>
+<h2>Includes airfare from Charlotte, land tours, daily sightseeing, and</h2>
 </header>
 <p>
 <ul>
-<li>Round trip air originating in Charlotte, NC</li>
-<li>Land tours and daily sightseeing including a ballet performance at the Hermitage Theatre</li>
 <li>All breakfasts, lunches, and dinners on board</li>
+<li>Daily sightseeing including a ballet performance at the Hermitage Theatre</li>
 <li>Entertainment reflecting local culture</li>
 <li>Trip preparation</li>
 <li>All taxes, fees, and port charges</li>
