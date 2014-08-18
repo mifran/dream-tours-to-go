@@ -113,6 +113,9 @@ $ 1399</td>
 </table>
 </p>
 </div>
+<div>
+<p>For more details on this cruise see this external website link on <a href="http://www.amawaterways.com/IGPID176-2015" class="no-call-to-action" target="_blank">Russian Waterways on amawaterways.com</a>.</p>
+</div>
 
 <header>
 <h2>Does not include:</h2>
