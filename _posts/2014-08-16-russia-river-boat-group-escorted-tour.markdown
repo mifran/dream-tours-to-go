@@ -33,7 +33,7 @@ Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/
 <h2>
 13 days<br/>
 August 5, 2015 - August 17, 2015<br/>
-From $4632 plus airfare.
+From $6131 plus airfare.
 </h2>
 </header>
 </div>
@@ -65,7 +65,7 @@ From $4632 plus airfare.
 <tbody>
 <tr>
 <td style="height:18px">&nbsp;<font size="3">Base Cost - Category F</font></td>
-<td style="text-align:right;height:18px"><font size="3">$ 4199</font></td>
+<td style="text-align:right;height:18px"><font size="3">$ 4373</font></td>
 <td style="height:18px"><font size="3">&nbsp;</font></td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ From $4632 plus airfare.
 </tr>
 <tr>
 <td style="height:14px">&nbsp;<font size="3">Air fare - ESTIMATED</font></td>
-<td style="text-align:right;height:14px">&nbsp;<font size="3">1500</font></td>
+<td style="text-align:right;height:14px">&nbsp;<font size="3">1494</font></td>
 <td style="height:14px">&nbsp;</td>
 </tr>
 <tr>
