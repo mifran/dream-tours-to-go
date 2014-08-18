@@ -100,7 +100,6 @@
   position: relative;
   display: block;
   top: -4em;
-  z-index: -400;
 }
 .heading-spacer-first-element {
   position: relative;
