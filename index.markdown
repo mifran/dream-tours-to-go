@@ -3,7 +3,7 @@ layout: default
 title: Group Escorted Cruises
 this-button: Tours
 ---
-        {% for post in site.posts %}
+        {% for post in site.posts reversed %}
 {% if post.type == "tour" %}
 <div class="page">
 <div class="picture-book-page-image">

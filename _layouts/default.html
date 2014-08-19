@@ -43,7 +43,7 @@
       <a href="#" class="drop-down">{{ page.this-button }}&nbsp;&nbsp;v</a>
 {% endif %}
       <ul>
-        {% for post in site.posts %}
+        {% for post in site.posts reversed %}
 {% if post.type == "tour" %}
           <li>
             <a href="{{ post.url | replace_first:'/','' }}">{{ post.this-button }}</a>
@@ -63,7 +63,7 @@
       <a href="#" class="drop-down">Tips&nbsp;&nbsp;v</a>
 {% endif %}
       <ul>
-        {% for post in site.posts %}
+        {% for post in site.posts reversed %}
 {% if post.type == "tip" %}
           <li>
             <a href="{{ post.url | replace_first:'/','' }}">{{ post.title }}</a>
