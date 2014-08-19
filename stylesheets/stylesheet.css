@@ -20,7 +20,7 @@
 .menu-bar a, .action-button a {
   color: #ffffff;
 }
-.action-button {
+.inline-action-button {
   font-size: 200%;
 }
 .child-menu {

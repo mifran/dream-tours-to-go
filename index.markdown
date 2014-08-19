@@ -13,7 +13,7 @@ this-button: Tours
 <header>
 {{ post.hero-text }}
 </header>
-<div class="action action-button">
+<div class="action action-button inline-action-button">
 <a href="{{ post.url | replace_first:'/','' }}">Learn More&nbsp;&gt;</a>
 </div>
 </div>
