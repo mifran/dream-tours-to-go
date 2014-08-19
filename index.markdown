@@ -20,5 +20,6 @@ this-button: Tours
 <div class="picture-book-page-image-author">
 {{ post.hero-author }}
 </div>
+</div>
 {% endif %}
         {% endfor %}
