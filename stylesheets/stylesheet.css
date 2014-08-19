@@ -116,6 +116,14 @@
   top: 3em;
   left: 1%;
 }
+.scroll-down {
+  height: 3em;
+  text-shadow: 0 0 8px rgba(17, 88, 209, 1.0); 
+  z-index: 1200;
+  position: absolute;
+  top: 95vh;
+  right: 0;
+}
 .picture-book-page-image-author {
   font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
