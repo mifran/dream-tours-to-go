@@ -14,7 +14,7 @@ this-button: Tours
 {{ post.hero-text }}
 </header>
 <div class="action action-button">
-<a href="{{ post.url }}">Learn More&nbsp;&gt;</a>
+<a href="{{ post.url | replace_first:'/','' }}">Learn More&nbsp;&gt;</a>
 </div>
 </div>
 <div class="picture-book-page-image-author">
