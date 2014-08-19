@@ -132,6 +132,7 @@
   position: absolute;
   font-size: .7em;
   bottom: 7px;
+  right: 0px;
   text-shadow: 0 0 1px rgba(17, 88, 209, 1.0); 
 }
 .picture-book-page-image-author a {
@@ -529,16 +530,22 @@ footer a:hover {
     display: none;
   }
   .picture-book-page-text {
-    top: 4.5em;
+    top: 2.5em;
   }
   .menu-spacer {
     height: 5.5em;
   }
-  header h2 {
+  header h2, .inline-action-button {
     font-size: 150%;
   }
   .main-content, .on-white {
     margin-left: 15px;
+  }
+  .top-spacer {
+    height: 5.5em;
+  }
+  .main-spacer {
+    height: 3em;
   }
 }
 
@@ -547,10 +554,13 @@ footer a:hover {
   .top-spacer {
     height: 5.5em;
   }
+  .picture-book-page-text {
+    top: 0em;
+  }
   .menu-secondary {
     display: none;
   }
-  header h2 {
+  header h2, .inline-action-button {
     font-size: 100%;
   }
   .main-content, .on-white {
