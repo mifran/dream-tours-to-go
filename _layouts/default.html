@@ -38,9 +38,9 @@
   <ul class="no-js">
     <li>
 {% if page.type == "tip" %}
-      <a href="#" class="drop-down">Tours&nbsp;&nbsp;v</a>
+      Tours&nbsp;&nbsp;v
 {% else %}
-      <a href="#" class="drop-down">{{ page.this-button }}&nbsp;&nbsp;v</a>
+      {{ page.this-button }}&nbsp;&nbsp;v
 {% endif %}
       <ul>
         {% for post in site.posts reversed %}
@@ -58,9 +58,9 @@
   <ul class="no-js">
     <li>
 {% if page.type == "tip" %}
-      <a href="#" class="drop-down">{{ page.this-button }}&nbsp;&nbsp;v</a>
+      {{ page.this-button }}&nbsp;&nbsp;v
 {% else %}
-      <a href="#" class="drop-down">Blog&nbsp;&nbsp;v</a>
+      Blog&nbsp;&nbsp;v
 {% endif %}
       <ul>
         {% for post in site.posts reversed %}
