@@ -117,11 +117,12 @@
   left: 1%;
 }
 .scroll-down {
+  border: 0px;
+  background-color: #ff5900;
   height: 3em;
-  text-shadow: 0 0 8px rgba(17, 88, 209, 1.0); 
   z-index: 1200;
   position: absolute;
-  top: 95vh;
+  top: 93vh;
   right: 0;
 }
 .picture-book-page-image-author {
