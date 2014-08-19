@@ -8,7 +8,7 @@ hero-alt: Saint Basil's Cathedral. Red Square in Moscow, Russia by Steffan Jense
 hero-text: <h2>Explore the Kremlin and fortified<br/>cathedrals with your friends.</h2>On a <h2>Russian River Boat.</h2>
 hero-author: <a title="By Steffan Jensen [CC-BY-SA-2.0 (//creativecommons.org/licenses/by-sa/2.0)], via Flickr" href="//flic.kr/p/nsHhyB">Saint Basil's Cathedral. Red Square in Moscow, Russia</a> by Steffan Jensen &#91;<a href="//creativecommons.org/licenses/by-sa/2.0">cc-by-sa-2.0</a>&#93;
 ---
-<div id="p2" class="page">
+<div id="p1" class="page">
 <div class="picture-book-page-image">
 <img src="images/welcome-to-russia-by-jaafar-alnasser-on-flickr-cc-by-2.0.jpg" alt="Welcome to Russia! by Jaafar Alnasser on Flickr, cc-by-2.0"/>
 </div>
@@ -115,6 +115,26 @@ $ 1399</td>
 <div>
 <p>For more details on this cruise see this external website link on <a href="http://www.amawaterways.com/IGPID176-2015" class="no-call-to-action" target="_blank">Russian Waterways on amawaterways.com</a>.</p>
 </div>
+</div>
+
+<div id="p3" class="page">
+<div class="picture-book-page-image">
+<img src="images/red-square-looking-northwest-by-arienne-mccracken-cc-by-sa-20.jpg" alt="Red Square - Looking Northwest by Arienne McCracken on Flickr, cc-by-sa-2.0"/>
+</div>
+<div class="picture-book-page-text">
+<header>
+<h2>
+Red Square - Looking Northwest
+</h2>
+</header>
+</div>
+<div class="picture-book-page-image-author">
+<a title="By Arienne McCracken [CC-BY-SA-2.0 (//creativecommons.org/licenses/by-sa/2.0)], via Flickr" href="//www.flickr.com/photos/paeonia1/3835900363">Red Square - Looking Northwest</a> by Arienne McCracken &#91;<a href="//creativecommons.org/licenses/by-sa/2.0">cc-by-sa-2.0</a>&#93;
+</div>
+</div>
+
+
+<div class="on-white">
 
 <header>
 <h2>Does not include:</h2>
