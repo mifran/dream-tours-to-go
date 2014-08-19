@@ -1,0 +1,26 @@
+---
+layout: default
+type: tip
+title: About Us and Dream Tours
+this-button: About
+---
+<div class="on-white">
+<header>
+<h2>Ben and Linda's Dream</h2>
+</header>
+<p>Dream Tours To Go was a dream shared by Ben and Linda Franklin more than thirty five years ago. Over the years they have fulfilled their personal dream to see as much of this fascinating world as possible.  Now they want to complete their dream and share their passion for travel with others who have the same dream.</p>
+ 
+<header>
+<h2>45-day Cross-country Trip</h2>
+</header>
+<p>As their first year of teaching drew to a close Ben and Linda decided to spend their summer seeing America.  Five days after the close of school in 1971 they jumped in their car and headed west, destination California.  This was the beginning of their shared dream to see the world.  Although they only got as far as Dallas before turning around and heading east, their journey of nearly 45 days only made them more determined to see as much of this world as possible. </p>
+
+
+<header>
+<h2>Europe Tour by Foot, Bus, Train, and Boat</h2>
+</header>
+<p>Two years later Ben and Linda packed three days of clothes into back packs and flew off to Europe.  They traveled by foot, bus, train, and boat for 44 days visiting 9 countries from Spain to Greece. Ben recalls “we slept in bus and train terminals, on all-night trains, $1.00 a night hotels, and in pensions, people’s homes.” With the exhilaration of this experience coupled with their passion for teaching, they decided to organize a tour for students to Europe.  In the summer of 1975 they led their first tour group of 7 people to Europe.  Twelve years and two children later, Ben and Linda took their own two kids to Greece to see the cradle of democracy.  In 1994 they again wanted to take their children along with a few friends to visit other countries in Europe.  This group eventually consisted of 48 students and teachers.  Since that time Ben and Linda have led 17 tours to Europe, Australia, or Central America and have visited Africa and South America on their own.</p>
+
+<p>Linda sums it up this way; “the excitement, the thrill, the wonder of travel has never diminished, only grown stronger.  The joy of sharing this excitement with others makes the travel even more meaningful.”</p>
+
+</div>
