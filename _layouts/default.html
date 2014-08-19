@@ -100,8 +100,7 @@
 </div>
 {% endif %}
 <div id="fb-root"></div>
-{{ site }}
-{% if site.baseurl %}{{site.url}}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}{% else %}http://dreamtourstogo.com{{ page.url }}{% endif %} 
+{% if site.url %}{{site.url}}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | replace_first:'/','' }}{% else %}http://dreamtourstogo.com{% endif %} 
 <div class="fb-comments" data-href="{% if site.url %}{{site.url}}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | replace_first:'/','' }}{% else %}http://dreamtourstogo.com{% endif %}" data-numposts="5" data-colorscheme="light"></div>
 
 <div class="action inline-action-button scroll-down">
