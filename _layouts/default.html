@@ -63,7 +63,7 @@
       Blog&nbsp;&nbsp;v
 {% endif %}
       <ul>
-        {% for post in site.posts reversed %}
+        {% for post in site.posts %}
 {% if post.type == "tip" %}
           <li>
             <a href="{{ post.url | replace_first:'/','' }}">{{ post.title }}</a>
