@@ -20,6 +20,9 @@
 .menu-bar a, .action-button a {
   color: #ffffff;
 }
+.action-button {
+  font-size: 200%;
+}
 .child-menu {
   display: none;
   position: relative;
