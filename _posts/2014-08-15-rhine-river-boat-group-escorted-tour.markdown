@@ -56,7 +56,7 @@ $5249 including airfare.
 </ul>
 </p>
 
-<p><img height="600" width="640" src="http://maps.googleapis.com/maps/api/staticmap?format=png&sensor=false&size=640x600&maptype=roadmap&style=feature:water|element:geometry.fill|visibility:on&style=element:labels.text|visibility:on&style=feature:administrative.locality|visibility:on&style=feature:road|visibility:off&markers=label:0|Zurich,Switzerland&markers=label:1|Basel,Switzerland&markers=label:2|Strasbourg,France&markers=label:3|Speyer,Germany&markers=Heidelberg,Germany&markers=label:4|Mainz%E2%80%93R%C3%BCdesheim,Germany&markers=label:5|Koblenz,Germany&markers=label:6|Cologne,Germany&markers=label:7|Amsterdam,Netherlands&markers=label:8|52.3663311,5.15"></p>
+<p><img src="http://maps.googleapis.com/maps/api/staticmap?format=png&sensor=false&size=640x600&maptype=roadmap&style=feature:water|element:geometry.fill|visibility:on&style=element:labels.text|visibility:on&style=feature:administrative.locality|visibility:on&style=feature:road|visibility:off&markers=label:0|Zurich,Switzerland&markers=label:1|Basel,Switzerland&markers=label:2|Strasbourg,France&markers=label:3|Speyer,Germany&markers=Heidelberg,Germany&markers=label:4|Mainz%E2%80%93R%C3%BCdesheim,Germany&markers=label:5|Koblenz,Germany&markers=label:6|Cologne,Germany&markers=label:7|Amsterdam,Netherlands&markers=label:8|52.3663311,5.15"></p>
 <header><h3>
 Day 1: Basel, Switzerland
 </h3></header>
