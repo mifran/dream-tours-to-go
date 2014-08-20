@@ -164,6 +164,14 @@ $(function () {
     }
   });
 });
+
+$(window).scroll(function() {
+    if ($(window).scrollTop() > 200 ) {
+        $('.scroll-down').fadeOut('slow');
+    } else {
+        $('.scroll-down').fadeIn('slow')
+    }
+});
 </script>
   </body>
 </html>
