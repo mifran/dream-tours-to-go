@@ -166,7 +166,7 @@ $ 1399</td>
 <div class="picture-book-page-text">
 <header>
 <h2>
-Red Square - Looking Northwest
+Red Square
 </h2>
 </header>
 </div>
