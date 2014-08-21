@@ -81,6 +81,26 @@ From $6131 including airfare.
 </ol>
 </p>
 
+</div>
+
+<div id="p2b" class="page">
+<div class="picture-book-page-image">
+<img src="images/ru-karelia-kizhi-by-digr-at-wts-wikivoyage-cc-by-30.jpg" alt="RU Karelia Kizhi by Digr at WTS Wikivoyage, cc-by-3.0"/>
+</div>
+<div class="picture-book-page-text">
+<header>
+<h2>
+Kizhi
+</h2>
+</header>
+</div>
+<div class="picture-book-page-image-author">
+Cropped <a title="By Digr at WTS Wikivoyage [CC-BY-3.0 (//creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="//commons.wikimedia.org/wiki/File%3ARU_Karelia_Kizhi.JPG">RU Karelia Kizhi</a> by Digr at WTS Wikivoyage &#91;<a href="//creativecommons.org/licenses/by/3.0">cc-by-3.0</a>&#93;
+</div>
+</div>
+
+<div class="on-white">
+
 <div class="align-right">
 <p>
 <table>
@@ -189,3 +209,15 @@ Charlotte NC 28226
 </div>
 </div>
 </div>
+<div id="p4" class="page">
+<div class="picture-book-page-image">
+<img src="images/moscow-kremlin-by-pavel-kazachkov-cc-by-20.jpg" alt="Moscow Kremlin by Pavel Kazachkov on Flickr, cc-by-2.0">
+</div>
+<div class="picture-book-page-text">
+<br/>
+</div>
+<div class="picture-book-page-image-author">
+Cropped <a title="(Cropped copy of image) By Pavel Kazachkov [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/koraxdc/8707177088">Kremlin Moscow</a> by Pavel Kazachkov &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
+</div>
+</div>
+
