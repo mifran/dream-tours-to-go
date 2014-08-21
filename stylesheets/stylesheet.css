@@ -140,7 +140,7 @@
   color: #aaa;
 }
 
-html, body, div, span, applet, object, iframe,
+html, body, div, footer, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -150,7 +150,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+figure, figcaption, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -455,10 +455,9 @@ dl dt {
 footer {
   padding-top: 20px;
   padding-bottom: 30px;
-  font-size: 13px;
   color: #fff;
+  font-size: 70%;
 }
-
 header {
   color: #fff;
 }
