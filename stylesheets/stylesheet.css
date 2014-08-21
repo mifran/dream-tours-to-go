@@ -131,7 +131,7 @@
   font-style: normal;
   color: #aaa;
   position: absolute;
-  font-size: .7em;
+  font-size: 80%;
   bottom: 7px;
   right: 0px;
   text-shadow: 0 0 1px rgba(17, 88, 209, 1.0); 
@@ -567,5 +567,7 @@ footer a:hover {
   .main-content, .on-white {
     margin-left: 4px;
   }
+.picture-book-page-image-author {
+  font-size: 70%;
 }
 
