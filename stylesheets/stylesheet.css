@@ -123,6 +123,7 @@
   height: 3em;
   z-index: 1200;
   position: absolute;
+  bottom: 15%;
   top: 85vh;
   right: 0;
 }
