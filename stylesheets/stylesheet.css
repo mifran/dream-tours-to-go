@@ -77,10 +77,11 @@
   background-color: #6d9eeb;
 }
 .action-menu-text {
+  border: solid 1px #000;
   top: 0px;
   text-align: right;
   color: #ff5900;
-  text-shadow: 0 0 2px rgba(17, 88, 209, 1.0); 
+  text-shadow: 0 0 3px rgba(0, 0, 0, 1.0); 
 }
 .promo-box a {
   text-decoration: underline;
