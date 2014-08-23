@@ -66,17 +66,18 @@ From Charlotte, we escort you all the way.
 <p>
 <ol>
 <li>Flight</li>
-<li>Moscow</li>
-<li>Moscow</li>
-<li>Moscow</li>
-<li>Uglich</li>
-<li>Yaroslavl</li>
-<li>Goritsky</li>
-<li>Kizhi</li>
-<li>Svirstroy</li>
-<li>Saint Petersburg</li>
-<li>Saint Petersburg</li>
-<li>Saint Petersburg</li>
+<li>Moscow: Enjoy Moscow and/or your stateroom.</li>
+<li>Moscow: See Red Square and St. Basil's Cathedral. Lunch on a cruise by the Kremlin, then see Bow Hill.</li>
+<li>Moscow: Visit the Kremlin where the Czars lived, and the Kremlin Armory museum of jewelry and artifacts.</li>
+<li>Uglich: Explore Uglich, founded in 1148,  and beautiful churches and cathedrals, then Chambers of Dimitry
+and Church of Dimitry on the Blood.</li>
+<li>Yaroslavl: Established in the Viking days of 1010, see Yaroslavl and its attractions: the Transfiguration Monastery and the Yaroslavl Museum of Russian Art.</li>
+<li>Goritsky: Stop by here and Monastery of St. Cyril.</li>
+<li>Kizhi: This entire Island is an open-air museum!</li>
+<li>Svirstroy: try shashlyk, and optionally enjoy tea and pastries with hospitality of a Russian family.</li>
+<li>Saint Petersburg, founded by Peter the Great. Visit Catherine the Great's Hermitage, one of the oldest museums in the world. Tour the city and view a fortress, a church, and a beautiful cathedral.</li>
+<li>Saint Petersburg: See Pushkin, Cameron Gallery, the Amber Room, and a Russian ballet performance.</li>
+<li>Saint Petersburg: See Peterhof "the Russian Versailles," the Lower Gardens, the Grand Cascade and Samson Fountain.</li>
 <li>Saint Petersburg: Disembark and fly home</li>
 </ol>
 </p>
