@@ -29,9 +29,9 @@ hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/
 <div class="picture-book-page-text">
 <header>
 <h2>
-9 days<br/>
-October 10, 2015 - October 18, 2015<br/>
-$5249 including airfare.
+9 days, 10/10/2015 - 10/18/2015<br/>
+Sometimes fills to capacity about a year in advance!<br/>
+From Charlotte, we escort you all the way.
 </h2>
 </header>
 </div>

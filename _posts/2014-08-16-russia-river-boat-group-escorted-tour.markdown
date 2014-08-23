@@ -31,9 +31,9 @@ Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/
 <div class="picture-book-page-text">
 <header>
 <h2>
-13 days<br/>
-August 5, 2015 - August 17, 2015<br/>
-From $6131 including airfare.
+13 days, 8/5/2015 - 8/17/2015<br/>
+Sometimes fills to capacity about a year in advance!<br/>
+From Charlotte, we escort you all the way.
 </h2>
 </header>
 </div>
