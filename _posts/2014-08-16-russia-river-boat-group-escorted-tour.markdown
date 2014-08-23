@@ -61,7 +61,7 @@ From $6131 including airfare.
 
 <p>
 <h2>13 days</h2>
-<img src="http://maps.googleapis.com/maps/api/staticmap?format=png&sensor=false&size=640x800&maptype=roadmap&markers=label:2|55.7571338,37.393107&markers=label:3|55.7571338,37.593107&markers=label:4|55.7571338,37.793107&markers=label:5|Uglich,Russia&markers=label:6|Yaroslavl,Russia&markers=label:7|Goritsky,Russia&markers=label:8|Kizhi,Russia&markers=label:9|Svirstroy,Russia&markers=label:%E2%92%91|59.894492,30.0233958&markers=label:%E2%92%92|59.894492,30.2233958&markers=label:%E2%92%93|59.894492,30.4233958&markers=label:%E2%92%94|59.894492,30.6233958"></p>
+<img src="images/russia-river-boat-group-escorted-cruise-tour-map-copyright-google.png"/></p>
 
 <p>
 <ol>
