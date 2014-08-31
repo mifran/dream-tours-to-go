@@ -1,11 +1,11 @@
 ---
 layout: default
 type: tour
-title: Rhine River Boat Escorted Cruise Tour
+title: Rhine River Cruise
 this-button: Rhine
 hero-image: images/heidelberg-mon-amour-by-problemkind-cc-by-20.jpg
 hero-alt: Heidelberg, mon amour by Problemkind on Flickr, cc-by-2.0
-hero-text: <h2>Drink up the history of ancient<br/>castles with your friends.</h2>On a <h2>Rhine River Boat.</h2>
+hero-text: <h2>Join us for a fun-filled cruise</h2>On the <h2>Rhine River</h2>
 hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/ratzfatz2000/4743084915">Heidelberg, mon amour</a> by Problemkind &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
 ---
 <div id="p1" class="page">
@@ -30,8 +30,9 @@ hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/
 <header>
 <h2>
 9 days, 10/10/2015 - 10/18/2015<br/>
-Sometimes fills to capacity about a year in advance!<br/>
-From Charlotte, we escort you all the way.
+Enroll before September 19, 2014 and save $150 per person<br/>
+Small ships, smooth rivers, spacious cabins and elegant cuisine.<br/>
+Beer and wine included with dinner.
 </h2>
 </header>
 </div>
@@ -56,7 +57,7 @@ From Charlotte, we escort you all the way.
 </ul>
 </p>
 
-<p><img src="images/rhine-river-boat-group-escorted-cruise-tour-map-copyright-google.png"/></p>
+<p><img src="images/rhine-river-boat-group-escorted-cruise-tour-map-copyright-avalon.jpg"/></p>
 <header><h3>
 Day 1: Basel, Switzerland
 </h3></header>
@@ -93,7 +94,7 @@ Downriver from Rüdesheim is the dramatic RHINE GORGE, the most beautiful stretc
 </header>
 </div>
 <div class="picture-book-page-image-author">
-<a title="By Felix Koenig (King) [CC-BY-SA-3.0 (//creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="//commons.wikimedia.org/wiki/File%3ALoreley_mit_tal_von_linker_rheinseite.jpg">Loreley mit tal von linker rheinseite</a> by Felix Koenig (King) &#91;<a href="//creativecommons.org/licenses/by-sa/3.0/">cc-by-sa-3.0</a>&#93;
+<a title="By Felix Koenig (King) [CC-BY-SA-3.0 (//creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="//commons.wikimedia.org/wiki/File%3ALoreley_mit_tal_von_linker_rheinseite.jpg">Loreley valley, left side of Rhine</a> by Felix Koenig (King) &#91;<a href="//creativecommons.org/licenses/by-sa/3.0/">cc-by-sa-3.0</a>&#93;
 </div>
 </div>
 
@@ -141,19 +142,18 @@ Cropped <a title="By Holger Weinandt [CC-BY-SA-3.0 (//creativecommons.org/licens
 <div class="on-white">
 
 <header>
-<h2>Does not include mixed drinks, beer, or</h2>
+<h2>Does not include</h2>
 </header>
 <ul>
 <li>Passport related expenses</li>
 <li>Personal items you may wish to purchase</li>
-<li>Wine, mixed drinks and beer after lunch and dinner</li>
 </ul>
 <div class="heading-spacer" id="book-now">
 <div class="heading-spacer-first-element">
 <header>
-<h2><div class="action-text">Book Now - $5249 including airfare</div></h2>
+<h2><div class="action-text">Book Now - $5243 including airfare</div></h2>
 </header>
-<p>To reserve your spot, send a $500 per person deposit by check to:</p>
+<p>To reserve your place, mail $500 deposit per person to:</p>
 
 <p>
 Dream Tours To Go<br/>
@@ -161,7 +161,7 @@ Dream Tours To Go<br/>
 Charlotte NC 28226
 </p>
 
-<p><a href="terms-conditions.html">Terms and Conditions</a> apply. The deposit is fully refundable up to 300 days prior to departure.</p>
+<p><a href="terms-conditions.html">Terms and Conditions</a> apply. Your deposit is fully refundable up to 300 days prior to departure.</p>
 
 <p>Questions? Email us at <a href="mailto:contact@dreamtourstogo.com">contact@dreamtourstogo.com</a> or call 704-543-1972.</p>
 </div>
