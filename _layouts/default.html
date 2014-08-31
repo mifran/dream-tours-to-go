@@ -36,14 +36,14 @@
       <div id="nav" class="menu-bar clearfix">
 
 <div class="menu-full"><div class="menu-part menu-part-1"><div class="level-1-button action menu-secondary">
-<a href="index.html">Dream Tours to Go</a> »
+<a href="index.html">Dream Tours to Go</a>
         </div><div class="level-2-button action menu" id="tours"> 
   <ul class="no-js">
     <li>
 {% if page.type == "tip" %}
-      Tours&nbsp;&nbsp;v
+      Tours
 {% else %}
-      {{ page.this-button }}&nbsp;&nbsp;v
+      {{ page.this-button }}
 {% endif %}
       <ul>
         {% for post in site.posts reversed %}
@@ -61,9 +61,9 @@
   <ul class="no-js">
     <li>
 {% if page.type == "tip" %}
-      {{ page.this-button }}&nbsp;&nbsp;v
+      {{ page.this-button }}
 {% else %}
-      Blog&nbsp;&nbsp;v
+      Blog
 {% endif %}
       <ul>
         {% for post in site.posts %}
