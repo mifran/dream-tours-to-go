@@ -41,9 +41,9 @@
   <ul class="no-js">
     <li>
 {% if page.type == "tip" %}
-      Tours
+      <a href="#">Tours</a>
 {% else %}
-      {{ page.this-button }}
+      <a href="#">{{ page.this-button }}</a>
 {% endif %}
       <ul>
         {% for post in site.posts reversed %}
@@ -61,9 +61,9 @@
   <ul class="no-js">
     <li>
 {% if page.type == "tip" %}
-      {{ page.this-button }}
+      <a href="#">{{ page.this-button }}</a>
 {% else %}
-      Blog
+      <a href="#">Blog</a>
 {% endif %}
       <ul>
         {% for post in site.posts %}
