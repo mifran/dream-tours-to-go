@@ -5,7 +5,7 @@ title: Rhine River Cruise
 this-button: Rhine
 hero-image: images/heidelberg-mon-amour-by-problemkind-cc-by-20.jpg
 hero-alt: Heidelberg, mon amour by Problemkind on Flickr, cc-by-2.0
-hero-text: <h2>Join us for a fun-filled cruise</h2>On the <h2>Rhine River</h2>
+hero-text: <h2>Join Us for a Fun-Filled Cruise</h2>On the <h2>Rhine River</h2>
 hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/ratzfatz2000/4743084915">Heidelberg, mon amour</a> by Problemkind &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
 ---
 <div id="p1" class="page">

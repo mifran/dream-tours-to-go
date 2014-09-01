@@ -32,14 +32,27 @@ Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/
 <header>
 <h2>
 13 days, 8/5/2015 - 8/17/2015<br/>
-Sometimes fills to capacity about a year in advance!<br/>
-From Charlotte, we escort you all the way.
+Enroll before September 19, 2014 and save $150 per person<br/>
 </h2>
 </header>
 </div>
 <div class="picture-book-page-image-author">
 <a title="By Steffan Jensen [CC-BY-SA-2.0 (//creativecommons.org/licenses/by-sa/2.0)], via Flickr" href="//flic.kr/p/nsHhyB">Saint Basil's Cathedral. Red Square in Moscow, Russia</a> by Steffan Jensen &#91;<a href="//creativecommons.org/licenses/by-sa/2.0">cc-by-sa-2.0</a>&#93;
 </div>
+</div>
+
+<div class="on-white">
+<p>
+<br/>
+This is an incredible once in a life time river voyage filled with sights unlike anywhere else in Europe.
+You’ll experience a unique culture still evolving from the Czarist period through communism, 
+to today’s democratic, capitalist society; it is exciting to see history being made. 
+Tourism is still in its infancy in Russia and river cruising is the best way 
+to get a safe and comfortable view of this former communist country.
+We will cruise the Volga and Baltic River Waterways on board the AMA Katerina.
+She is a 212 passenger cruise ship completely rebuilt in 2010-2011 featuring spacious staterooms, 
+a panoramic lounge and bar, a lovely restaurant offering delicious cuisine, and many other amenities.
+</p>
 </div>
 
 <div class="on-white">
@@ -61,7 +74,7 @@ From Charlotte, we escort you all the way.
 
 <p>
 <h2>13 days</h2>
-<img src="images/russia-river-boat-group-escorted-cruise-tour-map-copyright-google.png"/></p>
+<img src="images/russia-river-boat-group-escoreted-cruise-tour-map-copyright-ama-waterways.jpg"/></p>
 
 <p>
 <ol>
@@ -108,7 +121,7 @@ Cropped <a title="By Digr at WTS Wikivoyage [CC-BY-3.0 (//creativecommons.org/li
 <tbody>
 <tr>
 <td>Base Cost - Category F</td>
-<td>$ 4373</td>
+<td>$ 4199</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
@@ -123,8 +136,8 @@ Cropped <a title="By Digr at WTS Wikivoyage [CC-BY-3.0 (//creativecommons.org/li
 <td >&nbsp;this upgrade is optional, but recommended</td>
 </tr>
 <tr>
-<td >&nbsp;Air fare - ESTIMATED</td>
-<td >&nbsp;1494</td>
+<td >&nbsp;Air fare</td>
+<td >&nbsp;1591</td>
 <td >&nbsp;</td>
 </tr>
 <tr>
@@ -191,7 +204,7 @@ Red Square
 <div class="heading-spacer" id="book-now">
 <div class="heading-spacer-first-element">
 <header>
-<h2><div class="action-text">Book Now - from $6131 including airfare</div></h2>
+<h2><div class="action-text">Book Now - from $6753 including airfare</div></h2>
 </header>
 
 <p>Reserve your cabin preference now! This cruise sells out quickly.</p>
