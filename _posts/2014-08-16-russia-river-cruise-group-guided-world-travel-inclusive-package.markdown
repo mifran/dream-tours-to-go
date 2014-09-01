@@ -72,7 +72,7 @@ a panoramic lounge and bar, a lovely restaurant offering delicious cuisine, and 
 
 <p>
 <h2>13 days</h2>
-<img src="images/russia-river-boat-group-escoreted-cruise-tour-map-copyright-ama-waterways.jpg"/></p>
+<img src="images/russia-river-boat-guided-group-world-travel-cruise-map-copyright-ama-waterways.jpg"/></p>
 
 <p>
 <ol>
