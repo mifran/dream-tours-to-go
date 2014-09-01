@@ -1,7 +1,7 @@
 ---
 layout: default
 type: tour
-title: Russian River Boat Escorted Cruise Tour
+title: Russian River Cruise
 this-button: Russia
 hero-image: images/saint-basils-cathedral-red-square-in-moscow-russia-by-steffan-jensen-cc-by-sa-20.jpg
 hero-alt: Saint Basil's Cathedral. Red Square in Moscow, Russia by Steffan Jensen on Flickr, cc-by-sa-2.0
