@@ -5,7 +5,7 @@ title: Russian River Boat Escorted Cruise Tour
 this-button: Russia
 hero-image: images/saint-basils-cathedral-red-square-in-moscow-russia-by-steffan-jensen-cc-by-sa-20.jpg
 hero-alt: Saint Basil's Cathedral. Red Square in Moscow, Russia by Steffan Jensen on Flickr, cc-by-sa-2.0
-hero-text: <h2>Explore the Kremlin and fortified<br/>cathedrals on an escorted tour</h2>on a <h2>Russian River Boat.</h2>
+hero-text: <h2>Visit Russia from Moscow to Saint Petersburg</h2> by way of an exciting <h2>Russian River Cruise</h2>
 hero-author: <a title="By Steffan Jensen [CC-BY-SA-2.0 (//creativecommons.org/licenses/by-sa/2.0)], via Flickr" href="//flic.kr/p/nsHhyB">Saint Basil's Cathedral. Red Square in Moscow, Russia</a> by Steffan Jensen &#91;<a href="//creativecommons.org/licenses/by-sa/2.0">cc-by-sa-2.0</a>&#93;
 ---
 <div id="p1" class="page">
@@ -14,9 +14,7 @@ hero-author: <a title="By Steffan Jensen [CC-BY-SA-2.0 (//creativecommons.org/li
 </div>
 <div class="picture-book-page-text">
 <header>
-<h2>Explore the Kremlin and fortified<br/>cathedrals with your friends.</h2>
-On a
-<h2>Russian River Boat.</h2>
+{{ page.hero-text }}
 </header>
 </div>
 <div class="picture-book-page-image-author">

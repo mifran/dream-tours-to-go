@@ -112,10 +112,14 @@
 .picture-book-page-text {
   font-family: 'FreeUniversal', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
+  font-size: 140%;
   font-style: normal;
   position: absolute;
   top: 3em;
   left: 1%;
+}
+.picture-book-page-text header h2{
+  font-size: 140%
 }
 .scroll-down {
   border: 0px;
