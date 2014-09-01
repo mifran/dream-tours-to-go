@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Group Escorted Cruises
+title: Group Guided World Travel
 this-button: Tours
 ---
         {% for post in site.posts reversed %}
