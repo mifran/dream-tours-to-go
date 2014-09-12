@@ -39,8 +39,8 @@ Romantic Rhine River
 <header>
 <h2>
 9 Days,
-10/10/2015 – 10/18/2015
-ONLY $5343 (includes air)
+10/10/2015 – 10/18/2015<br/>
+ONLY $5343 (includes air)<br/>
 <b>SAVE $150 per person if enrolled by September 19,2014</b>
 </h2>
 </header>
