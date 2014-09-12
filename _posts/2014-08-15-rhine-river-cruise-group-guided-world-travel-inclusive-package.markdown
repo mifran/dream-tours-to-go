@@ -27,8 +27,8 @@ hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/
 <h2>
 Be Part of a Fun-Filled Group as We Cruise the<br/>
 Romantic Rhine River
-</header>
 </h2>
+</header>
 </div>
 
 <div id="p2" class="page">
