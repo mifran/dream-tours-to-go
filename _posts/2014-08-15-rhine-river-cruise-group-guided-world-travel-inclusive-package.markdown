@@ -165,7 +165,7 @@ Cropped <a title="By Holger Weinandt [CC-BY-SA-3.0 (//creativecommons.org/licens
 <div class="heading-spacer" id="book-now">
 <div class="heading-spacer-first-element">
 <header>
-<h2><div class="action-text">Book Now - $5243 including airfare</div></h2>
+<h2><div class="action-text">Book Now - $5343 including airfare</div></h2>
 </header>
 <p>To reserve your place, mail $500 deposit per person to:</p>
 
