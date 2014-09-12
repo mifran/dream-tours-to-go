@@ -223,9 +223,12 @@ header h2 {
   line-height: 1.2;
   letter-spacing: -1px;
   font-size: 200%;
-  color: #fff;
   font-weight: normal;
+  color: #fff;
   text-shadow: 0 0 10px rgba(17, 88, 209, 0.8); 
+}
+header h2 b {
+  font-weight: bold;
 }
 
 #container {
