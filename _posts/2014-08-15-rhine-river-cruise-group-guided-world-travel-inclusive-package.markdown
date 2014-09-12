@@ -5,7 +5,7 @@ title: Rhine River Cruise
 this-button: Rhine
 hero-image: images/heidelberg-mon-amour-by-problemkind-cc-by-20.jpg
 hero-alt: Heidelberg, mon amour by Problemkind on Flickr, cc-by-2.0
-hero-text: <h2>Join Us for a Fun-Filled Cruise</h2>On the <h2>Rhine River</h2>
+hero-text: <h2>Join Us on a<br/>Rhine River Cruise</h2>
 hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/ratzfatz2000/4743084915">Heidelberg, mon amour</a> by Problemkind &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
 ---
 <div id="p1" class="page">
@@ -22,6 +22,15 @@ hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/
 </div>
 </div>
 
+<div class="on-white">
+<header>
+<h2>
+Be Part of a Fun-Filled Group as We Cruise the<br/>
+Romantic Rhine River
+</header>
+</h2>
+</div>
+
 <div id="p2" class="page">
 <div class="picture-book-page-image">
 <img src="{{ page.hero-image }}" alt="{{ page.hero-alt }}"/>
@@ -29,10 +38,10 @@ hero-author: Cropped <a title="By Problemkind [CC-BY-2.0 (//creativecommons.org/
 <div class="picture-book-page-text">
 <header>
 <h2>
-9 days, 10/10/2015 - 10/18/2015<br/>
-Enroll before September 19, 2014 and save $150 per person<br/>
-Small ships, smooth rivers, spacious cabins and elegant cuisine.<br/>
-Beer and wine included with dinner.
+9 Days,
+10/10/2015 – 10/18/2015
+ONLY $5343 (includes air)
+<b>SAVE $150 per person if enrolled by September 19,2014</b>
 </h2>
 </header>
 </div>
@@ -42,6 +51,11 @@ Beer and wine included with dinner.
 </div>
 
 <div class="on-white">
+<header>
+<h2>Small ships, smooth rivers, spacious cabins and elegant cuisine.<br/>
+Beer and wine included with dinner.
+</h2>
+</header>
 <header>
 <h2>Includes airfare from Charlotte, land tours, spacious French balcony cabin, and</h2>
 </header>
