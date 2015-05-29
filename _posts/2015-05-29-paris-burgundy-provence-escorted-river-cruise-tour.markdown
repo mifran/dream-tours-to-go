@@ -7,6 +7,15 @@ hero-image: images/saint-basils-cathedral-red-square-in-moscow-russia-by-steffan
 hero-alt: Saint Basil's Cathedral. Red Square in Moscow, Russia by Steffan Jensen on Flickr, cc-by-sa-2.0
 hero-text: <h2>Russian River Cruise</h2>
 hero-author: <a title="By Steffan Jensen [CC-BY-SA-2.0 (//creativecommons.org/licenses/by-sa/2.0)], via Flickr" href="//flic.kr/p/nsHhyB">Saint Basil's Cathedral. Red Square in Moscow, Russia</a> by Steffan Jensen &#91;<a href="//creativecommons.org/licenses/by-sa/2.0">cc-by-sa-2.0</a>&#93;
+notes:
+cote-d-azure: https://www.flickr.com/photos/navin75/15607188493/
+map: for editing to reverse direction, http://images.globusfamily.com/Maps/AVALON/2015/WCL.jpg
+chateau-tournon: http://fr.wikipedia.org/wiki/Tournon-sur-Rh%C3%B4ne#/media/File:Chateau_tournon-6.jpg
+avalon-affinity: http://commons.wikimedia.org/wiki/File:Avalon_Affinity_(ship,_2009)_017.jpg
+avignon: http://commons.wikimedia.org/wiki/File:France_Avignon_Total_1.jpg
+basilique-lyon: https://www.flickr.com/photos/fredchat/6858004263
+notre-dame-paris: https://www.flickr.com/photos/wlappe/2902517299/
+
 ---
 <div id="p1" class="page">
 <div class="picture-book-page-image">
