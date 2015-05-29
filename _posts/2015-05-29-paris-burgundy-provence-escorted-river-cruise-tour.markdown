@@ -1,8 +1,8 @@
 ---
 layout: default
 type: tour
-title: Alaska Cruise Tour
-this-button: Alaska
+title: Paris, Burgundy, Provence River Cruise
+this-button: France
 hero-image: images/saint-basils-cathedral-red-square-in-moscow-russia-by-steffan-jensen-cc-by-sa-20.jpg
 hero-alt: Saint Basil's Cathedral. Red Square in Moscow, Russia by Steffan Jensen on Flickr, cc-by-sa-2.0
 hero-text: <h2>Russian River Cruise</h2>
