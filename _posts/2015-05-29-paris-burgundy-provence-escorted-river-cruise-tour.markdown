@@ -5,7 +5,7 @@ title: Paris, Burgundy, Provence River Cruise
 this-button: France
 hero-image: images/saint-basils-cathedral-red-square-in-moscow-russia-by-steffan-jensen-cc-by-sa-20.jpg
 hero-alt: Saint Basil's Cathedral. Red Square in Moscow, Russia by Steffan Jensen on Flickr, cc-by-sa-2.0
-hero-text: <h2>Russian River Cruise</h2>
+hero-text: <h2>Paris, Burgundy, Provence River Cruise</h2>
 hero-author: <a title="By Steffan Jensen [CC-BY-SA-2.0 (//creativecommons.org/licenses/by-sa/2.0)], via Flickr" href="//flic.kr/p/nsHhyB">Saint Basil's Cathedral. Red Square in Moscow, Russia</a> by Steffan Jensen &#91;<a href="//creativecommons.org/licenses/by-sa/2.0">cc-by-sa-2.0</a>&#93;
 ---
 <!--
@@ -21,15 +21,15 @@ notre-dame-paris: https://www.flickr.com/photos/wlappe/2902517299/
 -->
 <div id="p1" class="page">
 <div class="picture-book-page-image">
-<img src="images/welcome-to-russia-by-jaafar-alnasser-on-flickr-cc-by-2.0.jpg" alt="Welcome to Russia! by Jaafar Alnasser on Flickr, cc-by-2.0"/>
-</div>
+<img src="images/cote-d-azur-french-riviera-by-Navin75-on-flickr-cc-by-sa-20.jpg" alt="Côte d'Azur (French Riviera) by Navin75 on Flickr, cc-by-2.0"/>
+<div>
 <div class="picture-book-page-text">
 <header>
 {{ page.hero-text }}
 </header>
 </div>
 <div class="picture-book-page-image-author">
-Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/by/2.0)], via Flickr" href="//www.flickr.com/photos/71011448@N08/14256154431">Welcome to Russia!</a> by Jaafar Alnasser &#91;<a href="//creativecommons.org/licenses/by/2.0">cc-by-2.0</a>&#93;
+<a title="By Navin75 [CC-BY-SA-2.0 (//creativecommons.org/licenses/by/sa/2.0)], via Flickr" href="//www.flickr.com/photos/navin75/15607188493/">Côte d'Azur (French Riviera)</a> by Navin75 &#91;<a href="//creativecommons.org/licenses/by/sa/2.0">cc-by-sa-2.0</a>&#93;
 </div>
 </div>
 
@@ -40,9 +40,11 @@ Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/
 <div class="picture-book-page-text">
 <header>
 <h2>
-Moscow to St. Petersburg<br/>
-8/5/2015 - 8/17/2015<br/>
-Enroll before September 19, 2014 and SAVE $150 per person<br/>
+French Riviera to Paris<br/>
+2016<br/>
+13 days July 25 - August 5<br/>
+$4333<br/>
+Register and make deposit by August 25, 2015 to save $250.00 per person<br/>
 </h2>
 </header>
 </div>
@@ -54,16 +56,12 @@ Enroll before September 19, 2014 and SAVE $150 per person<br/>
 <div class="on-white">
 <p>
 <br/>
-This is an incredible once in a life time river voyage filled with sights unlike anywhere else in Europe.
-You’ll experience a unique culture still evolving from the Czarist period through communism, 
-to today’s democratic, capitalist society; it is exciting to see history being made. 
-Tourism is still in its infancy in Russia and river cruising is the best way 
-to get a safe and comfortable view of this former communist country.
-We will cruise the Volga and Baltic River Waterways on board the AMA Katerina.
-She is a 212 passenger cruise ship completely rebuilt in 2010-2011 featuring spacious staterooms, 
-a panoramic lounge and bar, a lovely restaurant offering delicious cuisine, and many other amenities.
+Seven days aboard the Avalon Affinity departing Arles, France disembarking at Chalon-Sur-Saone in the French Riveira, followed by 3 1/2 days exploring Paris, the romantic City of Lights. Arrive at a different town each day while on the Affinity, and enjoy a guided tour (included). Visit sights like the 20,000 seat Roman amphitheater, a 14th century Palace, Romansque Cathedrals, a UNESCO World Heritage Site, and even enjoy a cheese tasting onboard, and so much more.
 </p>
 </div>
+
+
+<!-- continue here -->
 
 <div class="on-white">
 <div class="align-right">
@@ -72,7 +70,7 @@ a panoramic lounge and bar, a lovely restaurant offering delicious cuisine, and 
 <tbody>
 <tr>
 <td>Base Cost - Category F</td>
-<td>$ 4199</td>
+<td>$ 4333</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
