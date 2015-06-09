@@ -34,23 +34,40 @@ notre-dame-paris: https://www.flickr.com/photos/wlappe/2902517299/
 </div>
 
 <div id="p2" class="page">
-<div class="picture-book-page-image">
-<img src="images/saint-basils-cathedral-red-square-in-moscow-russia-by-steffan-jensen-cc-by-sa-20.jpg" alt="'Saint Basil's Cathedral. Red Square in Moscow, Russia' by Steffan Jensen on Flickr, cc-by-sa-2.0"/>
+ <div class="picture-book-page-image">
+  <img src="images/1024px-avalon-affinity-ship-2009-017-by-rolf-heinrich-koln-cc-by-3.0.jpg" alt="'Avalon Affinity (ship, 2009) 017' by User:Rolf_H. on Wikimedia Commons, cc-by-3.0"/>
+ </div>
+
+ <div class="picture-book-page-text">
+  <header>
+  <h2>
+   Avalon Affinity<br/>
+   8/5/2015 - 8/17/2015<br/>
+   Enroll before September 19, 2014 and SAVE $150 per person<br/>
+  </h2>
+  </header>
+ </div>
+ <div class="picture-book-page-image-author">
+  <a title="By Steffan Jensen [CC-BY-3.0 (//creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="//commons.wikimedia.org/wiki/File:Avalon_Affinity_(ship,_2009)_017.jpg">Avalon Affinity (ship, 2009) 017</a> by Rolf Heinrich, Koln  &#91;<a href="//creativecommons.org/licenses/by/3.0">cc-by-3.0</a>&#93;
+ </div>
 </div>
-<div class="picture-book-page-text">
-<header>
-<h2>
-French Riviera to Paris<br/>
-2016<br/>
-13 days July 25 - August 5<br/>
-$4333<br/>
-Register and make deposit by August 25, 2015 to save $250.00 per person<br/>
-</h2>
-</header>
-</div>
-<div class="picture-book-page-image-author">
-<a title="By Steffan Jensen [CC-BY-SA-2.0 (//creativecommons.org/licenses/by-sa/2.0)], via Flickr" href="//flic.kr/p/nsHhyB">Saint Basil's Cathedral. Red Square in Moscow, Russia</a> by Steffan Jensen &#91;<a href="//creativecommons.org/licenses/by-sa/2.0">cc-by-sa-2.0</a>&#93;
-</div>
+
+<div id="p2" class="page">
+ <div class="picture-book-page-image">
+  <img src="images/1024px-avalon-affinity-ship-2009-017-by-rolf-heinrich-koln-cc-by-3.0.jpg" alt="'Avalon Affinity (ship, 2009) 017' by User:Rolf_H. on Wikimedia Commons, cc-by-3.0"/>
+ </div>
+ <div class="picture-book-page-text">
+  <header>
+  <h2>
+   Avalon Affinity<br/>
+   8/5/2015 - 8/17/2015<br/>
+   Enroll before September 19, 2014 and SAVE $150 per person<br/>
+  </h2>
+  </header>
+ </div>
+ <div class="picture-book-page-image-author">
+  <a title="By Steffan Jensen [CC-BY-3.0 (//creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="//commons.wikimedia.org/wiki/File:Avalon_Affinity_(ship,_2009)_017.jpg">Avalon Affinity (ship, 2009) 017</a> by Rolf Heinrich, Koln  &#91;<a href="//creativecommons.org/licenses/by/3.0">cc-by-3.0</a>&#93;
+ </div>
 </div>
 
 <div class="on-white">
